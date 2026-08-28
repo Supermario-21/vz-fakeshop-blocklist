@@ -1,0 +1,97 @@
+name: VZ Fakeshop Update
+
+on:
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scrape VZ Fakeshop-Finder
+        run: |
+          python3 << 'PYEOF'
+          import re, time, urllib.request
+          from datetime import datetime, timedelta
+          from html.parser import HTMLParser
+
+          BASE_URL = "https://warnung.fakeshop-finder.de"
+          MONTHS_BACK = 3
+          USER_AGENT = "Mozilla/5.0 (compatible; VZ-Fakeshop-Updater/1.0)"
+
+          class Parser(HTMLParser):
+              HREF_RE = re.compile(r"https://warnung\.fakeshop-finder\.de/\d{4}_\d{2}/[^\"']+\.html")
+              DOMAIN_RE = re.compile(r"^[a-z0-9][a-z0-9.\-]+\.[a-z]{2,}$")
+              def __init__(self):
+                  super().__init__()
+                  self.domains = set()
+                  self._capture = False
+              def handle_starttag(self, tag, attrs):
+                  if tag == "a":
+                      href = dict(attrs).get("href", "")
+                      self._capture = bool(self.HREF_RE.match(href))
+              def handle_data(self, data):
+                  if self._capture:
+                      c = data.strip().lower()
+                      if self.DOMAIN_RE.match(c):
+                          self.domains.add(c)
+              def handle_endtag(self, tag):
+                  if tag == "a":
+                      self._capture = False
+
+          def fetch(url):
+              req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+              try:
+                  with urllib.request.urlopen(req, timeout=20) as r:
+                      return r.read().decode("utf-8", errors="replace")
+              except Exception as e:
+                  print(f"Fehler bei {url}: {e}")
+                  return None
+
+          now = datetime.now()
+          urls = [f"{BASE_URL}/"]
+          for i in range(MONTHS_BACK):
+              dt = now - timedelta(days=30 * i)
+              urls.append(f"{BASE_URL}/{dt.strftime('%Y_%m')}_warnungen.html")
+
+          all_domains = set()
+          for url in urls:
+              print(f"Lade: {url}")
+              html = fetch(url)
+              if html:
+                  p = Parser()
+                  p.feed(html)
+                  print(f"  -> {len(p.domains)} Domains")
+                  all_domains |= p.domains
+              time.sleep(2)
+
+          now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+          lines = [
+              "[Adblock Plus 2.0]",
+              "! Title: VZ Fakeshop-Finder Blocklist",
+              "! Description: Fakeshop-Warnungen der Verbraucherzentrale",
+              "! Homepage: https://warnung.fakeshop-finder.de/",
+              f"! Last modified: {now_str}",
+              "! Expires: 1 day",
+              f"! Entries: {len(all_domains)}",
+              "",
+          ]
+          for d in sorted(all_domains):
+              lines.append(f"||{d}^")
+
+          with open("vz_fakeshops.txt", "w") as f:
+              f.write("\n".join(lines) + "\n")
+
+          print(f"Fertig: {len(all_domains)} Domains")
+          PYEOF
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add vz_fakeshops.txt
+          git diff --staged --quiet || git commit -m "Update VZ Fakeshop-Liste $(date +'%Y-%m-%d')"
+          git push
