@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-01 08:48
+! Last modified: 2026-09-02 08:01
 ! Expires: 1 day
-! Entries: 162
+! Entries: 165
 
 ||alskdrmo.shop^
 ||alverogmbh.myshopify.com^
@@ -26,6 +26,7 @@
 ||campingspezialisten.com^
 ||cfbl-premiumholz.de^
 ||chleaguy.com^
+||cyclemastersstore.com^
 ||dailyberlin.de^
 ||deutschemobel.com^
 ||dieholzstucke.de^
@@ -52,6 +53,7 @@
 ||firstgoldshop.com^
 ||fixeklima.de^
 ||florina-kaufen.de^
+||flyerfahrrad.com^
 ||furneo-handel.com^
 ||gaborshops.com^
 ||garden-de.myshopify.com^
@@ -136,6 +138,7 @@
 ||rbpelleteck.com^
 ||rechtskanzlei-karls.de^
 ||redlich-becker.de^
+||respira.berlin^
 ||rqhtyztv.shop^
 ||rundumstrikot.de^
 ||samoonde.com^
