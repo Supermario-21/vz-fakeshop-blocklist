@@ -2,15 +2,17 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-02 08:01
+! Last modified: 2026-09-03 08:11
 ! Expires: 1 day
-! Entries: 165
+! Entries: 189
 
+||aktioncode.com^
 ||alskdrmo.shop^
 ||alverogmbh.myshopify.com^
 ||am-onlinehandel.de^
 ||anhangermaschinen.de^
 ||auto-export-augsburg.de^
+||autonivo.de^
 ||bahntechnik-garten.de^
 ||baustoffe-sales.com^
 ||bergmann-outdoor.com^
@@ -19,15 +21,19 @@
 ||bioenergielogistik.de^
 ||bioholzpellets.de^
 ||blasgarten.de^
+||boismat.de^
 ||bonvya.com^
 ||boomtownstreetwear.de^
 ||braunsale.de^
 ||bundes-finanzservice.de^
+||camerapicks.com^
 ||campingspezialisten.com^
+||canyonoutlet.de^
 ||cfbl-premiumholz.de^
 ||chleaguy.com^
 ||cyclemastersstore.com^
 ||dailyberlin.de^
+||derbyfahrrader.de^
 ||deutschemobel.com^
 ||dieholzstucke.de^
 ||dunstabzugshaubenfilter24.com^
@@ -54,7 +60,9 @@
 ||fixeklima.de^
 ||florina-kaufen.de^
 ||flyerfahrrad.com^
+||frankefahrrad.de^
 ||furneo-handel.com^
+||fwnkeoyt.shop^
 ||gaborshops.com^
 ||garden-de.myshopify.com^
 ||garten-market.com^
@@ -63,6 +71,7 @@
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
 ||glow-garten.com^
+||grand-bazar.de^
 ||hagebaumarkt-muenchen.shop^
 ||hannibalcorp.com^
 ||hartholz-briketts.de^
@@ -99,6 +108,7 @@
 ||koppermuller-markt.de^
 ||kraftfahrrad.de^
 ||kramertechnik.de^
+||kuriovault.com^
 ||lamerahomemobel.shop^
 ||lasten-anhanger.com^
 ||lebenskernde.com^
@@ -106,18 +116,23 @@
 ||limon-shop.at^
 ||mammutjacke.com^
 ||marinesafetygear.com^
+||market.fieldcrofton.com^
+||market.glenleigha.com^
 ||market.halewick.com^
+||market.willowgroven.com^
 ||mediamarkt-gg.de^
 ||meingartenwelt.com^
 ||midea-europa.de^
 ||midea-klimaanlage.de^
 ||midea-klimashop.de^
 ||midea-klimawelt.de^
+||misterwinkler.de^
 ||mm-energies.de^
 ||motoproof.de^
 ||mototeilecenter.com^
 ||mpq-ebiketechnik.de^
 ||mrifhvn.shop^
+||mtiialolo.com^
 ||muenzenvault.com^
 ||nanovault.de^
 ||narcyveloshop.com^
@@ -134,11 +149,15 @@
 ||ph-gartenmaschinen.de^
 ||pourra.shop^
 ||praxisklinik-muelheim.de^
+||preis-zwerg.de^
+||prosolargen-strip.de^
 ||ra-owl.de^
+||rachow-handel.com^
 ||rbpelleteck.com^
 ||rechtskanzlei-karls.de^
 ||redlich-becker.de^
 ||respira.berlin^
+||reynamobel.shop^
 ||rqhtyztv.shop^
 ||rundumstrikot.de^
 ||samoonde.com^
@@ -149,6 +168,7 @@
 ||shujuwang.de^
 ||shutterlans.myshopify.com^
 ||silveraureus.com^
+||sl-handel.com^
 ||solarosales-green.com^
 ||solidewaren.com^
 ||sparhaustechnik.de^
@@ -156,8 +176,11 @@
 ||stilwerk.shop^
 ||store.elmleigha.com^
 ||store.quarryby.com^
+||store.woodgroven.com^
 ||sufrema-kaufen.de^
+||taotdzhi.shop^
 ||terraqo.de^
+||tom-trailer.com^
 ||trekkinggearwarehouse.com^
 ||vdel-electromenager.com^
 ||verbraucherfokus-test.de^
@@ -171,3 +194,4 @@
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
+||wrexio.com^
