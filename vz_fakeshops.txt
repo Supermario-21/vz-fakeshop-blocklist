@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-03 08:11
+! Last modified: 2026-09-04 08:06
 ! Expires: 1 day
-! Entries: 189
+! Entries: 216
 
 ||aktioncode.com^
 ||alskdrmo.shop^
@@ -15,11 +15,14 @@
 ||autonivo.de^
 ||bahntechnik-garten.de^
 ||baustoffe-sales.com^
+||beatrice-london.com^
+||bellataylor-newyork.com^
 ||bergmann-outdoor.com^
 ||bewegwelt.myshopify.com^
 ||bikecube.de^
 ||bioenergielogistik.de^
 ||bioholzpellets.de^
+||birnerforsttechnik.de^
 ||blasgarten.de^
 ||boismat.de^
 ||bonvya.com^
@@ -29,8 +32,11 @@
 ||camerapicks.com^
 ||campingspezialisten.com^
 ||canyonoutlet.de^
+||celeste-milano.com^
 ||cfbl-premiumholz.de^
+||charlotte-sydney.com^
 ||chleaguy.com^
+||clara-copenhagen.com^
 ||cyclemastersstore.com^
 ||dailyberlin.de^
 ||derbyfahrrader.de^
@@ -39,7 +45,11 @@
 ||dunstabzugshaubenfilter24.com^
 ||ebikeprofi24.de^
 ||ebm-heimwerk.com^
+||electra-royal.de^
+||elektriker-buchwald.de^
 ||ellesses.de^
+||emma-amsterdam.com^
+||emma-wellington.com^
 ||energie-schnell.com^
 ||ennssale.shop^
 ||ersatzteilesale.com^
@@ -73,6 +83,7 @@
 ||glow-garten.com^
 ||grand-bazar.de^
 ||hagebaumarkt-muenchen.shop^
+||hannahamburg.com^
 ||hannibalcorp.com^
 ||hartholz-briketts.de^
 ||haus-lieblinge.de^
@@ -90,12 +101,15 @@
 ||homvora.de^
 ||hornwald.com^
 ||hornwald.de^
+||hubwerkshop24.com^
 ||hwg-gedern.com^
 ||interholz-de.com^
 ||interlux-zentrum.com^
+||isabella-buenosaires.com^
 ||jette-handel.de^
 ||joeholz.com^
 ||jubin-bicycle.com^
+||julia-madrid.com^
 ||k-ebikegmbh.de^
 ||kaelte-bringer.de^
 ||kalkar-handel.com^
@@ -110,11 +124,16 @@
 ||kramertechnik.de^
 ||kuriovault.com^
 ||lamerahomemobel.shop^
+||larshamburg.com^
 ||lasten-anhanger.com^
 ||lebenskernde.com^
 ||lenaskunst.de^
+||levinberlin.com^
 ||limon-shop.at^
+||lina-athens.com^
 ||mammutjacke.com^
+||margaret-london.com^
+||mariasydney.com^
 ||marinesafetygear.com^
 ||market.fieldcrofton.com^
 ||market.glenleigha.com^
@@ -139,6 +158,7 @@
 ||nebelrad.de^
 ||nordevantis.de^
 ||nordhaus-handel.de^
+||olivia-leeds.com^
 ||ophirum-web.de^
 ||ophirum.online^
 ||ophirum.site^
@@ -158,6 +178,7 @@
 ||redlich-becker.de^
 ||respira.berlin^
 ||reynamobel.shop^
+||riley-vancouver.com^
 ||rqhtyztv.shop^
 ||rundumstrikot.de^
 ||samoonde.com^
@@ -167,10 +188,16 @@
 ||shop.wonderproject.co.uk^
 ||shujuwang.de^
 ||shutterlans.myshopify.com^
+||sigl-inso.de^
 ||silveraureus.com^
 ||sl-handel.com^
+||sofia-barcelona.com^
 ||solarosales-green.com^
 ||solidewaren.com^
+||sophie-melbourne.com^
+||sophie-rotterdam.com^
+||sophieberlin.com^
+||sophievienna.com^
 ||sparhaustechnik.de^
 ||splima.de^
 ||stilwerk.shop^
