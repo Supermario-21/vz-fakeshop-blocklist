@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-04 08:06
+! Last modified: 2026-09-05 07:46
 ! Expires: 1 day
-! Entries: 216
+! Entries: 224
 
 ||aktioncode.com^
 ||alskdrmo.shop^
@@ -28,6 +28,7 @@
 ||bonvya.com^
 ||boomtownstreetwear.de^
 ||braunsale.de^
+||brennholzbredemeier.com^
 ||bundes-finanzservice.de^
 ||camerapicks.com^
 ||campingspezialisten.com^
@@ -64,9 +65,11 @@
 ||fahrrad-zukunft.de^
 ||fahrradladen-klasen.de^
 ||falthammer-markt.com^
+||feuerholzexpress.de^
 ||findaten.de^
 ||finpruefer.de^
 ||firstgoldshop.com^
+||fixardo.de^
 ||fixeklima.de^
 ||florina-kaufen.de^
 ||flyerfahrrad.com^
@@ -97,6 +100,7 @@
 ||hensel-markt.com^
 ||hjz-handel.de^
 ||holzbriketts-profi.de^
+||holzscheitenatur.com^
 ||home-geare.de^
 ||homvora.de^
 ||hornwald.com^
@@ -108,6 +112,7 @@
 ||isabella-buenosaires.com^
 ||jette-handel.de^
 ||joeholz.com^
+||johdorbrennholz.com^
 ||jubin-bicycle.com^
 ||julia-madrid.com^
 ||k-ebikegmbh.de^
@@ -200,6 +205,7 @@
 ||sophievienna.com^
 ||sparhaustechnik.de^
 ||splima.de^
+||stammholz-forest.com^
 ||stilwerk.shop^
 ||store.elmleigha.com^
 ||store.quarryby.com^
@@ -218,7 +224,9 @@
 ||waschmaschinen-spezialist.de^
 ||weber-baumarkt.com^
 ||werkzeugtechnik-jm.de^
+||wetzlarindustrysolutions.com^
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
+||work-co.de^
 ||wrexio.com^
