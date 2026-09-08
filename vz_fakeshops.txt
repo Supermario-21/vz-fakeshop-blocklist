@@ -2,15 +2,16 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-07 08:30
+! Last modified: 2026-09-08 08:13
 ! Expires: 1 day
-! Entries: 224
+! Entries: 230
 
 ||aktioncode.com^
 ||alskdrmo.shop^
 ||alverogmbh.myshopify.com^
 ||am-onlinehandel.de^
 ||anhangermaschinen.de^
+||apionier.com^
 ||auto-export-augsburg.de^
 ||autonivo.de^
 ||bahntechnik-garten.de^
@@ -20,6 +21,7 @@
 ||bergmann-outdoor.com^
 ||bewegwelt.myshopify.com^
 ||bikecube.de^
+||biketools24.com^
 ||bioenergielogistik.de^
 ||bioholzpellets.de^
 ||birnerforsttechnik.de^
@@ -28,6 +30,7 @@
 ||bonvya.com^
 ||boomtownstreetwear.de^
 ||braunsale.de^
+||brennholz-bernd.com^
 ||brennholzbredemeier.com^
 ||bundes-finanzservice.de^
 ||camerapicks.com^
@@ -79,7 +82,9 @@
 ||gaborshops.com^
 ||garden-de.myshopify.com^
 ||garten-market.com^
+||gartenexperte24.com^
 ||gartenmeistede.com^
+||gepaecktasch.com^
 ||ghkmaili.shop^
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
@@ -99,6 +104,7 @@
 ||heizwelt24.de^
 ||hensel-markt.com^
 ||hjz-handel.de^
+||holz-wagner.com^
 ||holzbriketts-profi.de^
 ||holzscheitenatur.com^
 ||home-geare.de^
