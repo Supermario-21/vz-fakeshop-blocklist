@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-08 08:13
+! Last modified: 2026-09-09 08:16
 ! Expires: 1 day
-! Entries: 230
+! Entries: 232
 
 ||aktioncode.com^
 ||alskdrmo.shop^
@@ -56,6 +56,7 @@
 ||emma-wellington.com^
 ||energie-schnell.com^
 ||ennssale.shop^
+||equaloxchange.shop^
 ||ersatzteilesale.com^
 ||eshop.kestmere.com^
 ||eshop.quarryby.com^
@@ -226,6 +227,7 @@
 ||verbraucherzentrale-finanzen.org^
 ||vezeretransports.com^
 ||vone-shop.com^
+||vorwerk-tm.de^
 ||waerme-pumpen24.de^
 ||waschmaschinen-spezialist.de^
 ||weber-baumarkt.com^
