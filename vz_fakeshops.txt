@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-09 08:16
+! Last modified: 2026-09-10 08:16
 ! Expires: 1 day
-! Entries: 232
+! Entries: 234
 
 ||aktioncode.com^
 ||alskdrmo.shop^
@@ -143,7 +143,9 @@
 ||levinberlin.com^
 ||limon-shop.at^
 ||lina-athens.com^
+||luis-software.de^
 ||mammutjacke.com^
+||manueleuropafahrschule.de^
 ||margaret-london.com^
 ||mariasydney.com^
 ||marinesafetygear.com^
