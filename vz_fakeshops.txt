@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-10 08:16
+! Last modified: 2026-09-11 08:11
 ! Expires: 1 day
-! Entries: 234
+! Entries: 235
 
 ||aktioncode.com^
 ||alskdrmo.shop^
@@ -194,6 +194,7 @@
 ||reynamobel.shop^
 ||riley-vancouver.com^
 ||rqhtyztv.shop^
+||rudolphmaschine.de^
 ||rundumstrikot.de^
 ||samoonde.com^
 ||sarl-castelmag.com^
