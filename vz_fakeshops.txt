@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-11 08:11
+! Last modified: 2026-09-12 08:01
 ! Expires: 1 day
-! Entries: 235
+! Entries: 241
 
 ||aktioncode.com^
 ||alskdrmo.shop^
@@ -41,8 +41,10 @@
 ||charlotte-sydney.com^
 ||chleaguy.com^
 ||clara-copenhagen.com^
+||containerschiffsreedereigmbh.de^
 ||cyclemastersstore.com^
 ||dailyberlin.de^
+||de.shopmaxxs.com^
 ||derbyfahrrader.de^
 ||deutschemobel.com^
 ||dieholzstucke.de^
@@ -60,6 +62,7 @@
 ||ersatzteilesale.com^
 ||eshop.kestmere.com^
 ||eshop.quarryby.com^
+||etrias.de^
 ||eurlexodus.com^
 ||eurotech-diamant.de^
 ||exklusivrad.de^
@@ -161,6 +164,7 @@
 ||midea-klimawelt.de^
 ||misterwinkler.de^
 ||mm-energies.de^
+||mobel-wahls.shop^
 ||motoproof.de^
 ||mototeilecenter.com^
 ||mpq-ebiketechnik.de^
@@ -170,6 +174,7 @@
 ||nanovault.de^
 ||narcyveloshop.com^
 ||nebelrad.de^
+||nexuswebshop.com^
 ||nordevantis.de^
 ||nordhaus-handel.de^
 ||olivia-leeds.com^
@@ -214,6 +219,7 @@
 ||sophieberlin.com^
 ||sophievienna.com^
 ||sparhaustechnik.de^
+||spedition-tml.de^
 ||splima.de^
 ||stammholz-forest.com^
 ||stilwerk.shop^
