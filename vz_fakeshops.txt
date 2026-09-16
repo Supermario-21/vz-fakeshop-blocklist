@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-15 08:49
+! Last modified: 2026-09-16 08:43
 ! Expires: 1 day
-! Entries: 241
+! Entries: 245
 
 ||aktioncode.com^
 ||alskdrmo.shop^
@@ -29,9 +29,11 @@
 ||boismat.de^
 ||bonvya.com^
 ||boomtownstreetwear.de^
+||boxtrail.de^
 ||braunsale.de^
 ||brennholz-bernd.com^
 ||brennholzbredemeier.com^
+||brennstoffe-weddeling.com^
 ||bundes-finanzservice.de^
 ||camerapicks.com^
 ||campingspezialisten.com^
@@ -137,6 +139,7 @@
 ||koppermuller-markt.de^
 ||kraftfahrrad.de^
 ||kramertechnik.de^
+||kronsummitgmbh.de^
 ||kuriovault.com^
 ||lamerahomemobel.shop^
 ||larshamburg.com^
@@ -203,6 +206,7 @@
 ||rundumstrikot.de^
 ||samoonde.com^
 ||sarl-castelmag.com^
+||sasprodesca.com^
 ||schnellenberger-haus.de^
 ||seatoria.com^
 ||shop.wonderproject.co.uk^
