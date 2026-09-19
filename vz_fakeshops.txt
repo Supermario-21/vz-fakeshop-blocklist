@@ -2,17 +2,22 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-18 08:23
+! Last modified: 2026-09-19 08:10
 ! Expires: 1 day
-! Entries: 246
+! Entries: 271
 
+||agritechcenter.de^
 ||aktioncode.com^
+||alpha3-gmbh.de^
 ||alskdrmo.shop^
 ||alverogmbh.myshopify.com^
 ||am-onlinehandel.de^
 ||anhangermaschinen.de^
 ||apionier.com^
+||aristos24.de^
+||atlascontainerlogistikgmbh.de^
 ||auto-export-augsburg.de^
+||autohistorik.de^
 ||autonivo.de^
 ||bahntechnik-garten.de^
 ||baustoffe-sales.com^
@@ -32,6 +37,7 @@
 ||boxtrail.de^
 ||braunsale.de^
 ||brennholz-bernd.com^
+||brennholz-hans.de^
 ||brennholzbredemeier.com^
 ||brennstoffe-weddeling.com^
 ||bundes-finanzservice.de^
@@ -47,12 +53,15 @@
 ||cyclemastersstore.com^
 ||dailyberlin.de^
 ||de.shopmaxxs.com^
+||debot-maschinen.de^
 ||derbyfahrrader.de^
 ||deutschemobel.com^
 ||dieholzstucke.de^
+||diermann-marketing.de^
 ||dunstabzugshaubenfilter24.com^
 ||ebikeprofi24.de^
 ||ebm-heimwerk.com^
+||elbcontainer24.de^
 ||electra-royal.de^
 ||elektriker-buchwald.de^
 ||ellesses.de^
@@ -82,6 +91,7 @@
 ||fixeklima.de^
 ||florina-kaufen.de^
 ||flyerfahrrad.com^
+||forstbedarf-blessing.de^
 ||frankefahrrad.de^
 ||furneo-handel.com^
 ||fwnkeoyt.shop^
@@ -90,12 +100,14 @@
 ||garten-market.com^
 ||gartenexperte24.com^
 ||gartenmeistede.com^
+||gartenmotoren.de^
 ||gepaecktasch.com^
 ||ghkmaili.shop^
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
 ||glow-garten.com^
 ||grand-bazar.de^
+||gruenliva.de^
 ||hagebaumarkt-muenchen.shop^
 ||hannahamburg.com^
 ||hannibalcorp.com^
@@ -112,6 +124,7 @@
 ||hjz-handel.de^
 ||holz-wagner.com^
 ||holzbriketts-profi.de^
+||holzgluck.de^
 ||holzscheitenatur.com^
 ||home-geare.de^
 ||homvora.de^
@@ -119,6 +132,7 @@
 ||hornwald.de^
 ||hubwerkshop24.com^
 ||hwg-gedern.com^
+||ihk-eforen.de^
 ||interholz-de.com^
 ||interlux-zentrum.com^
 ||isabella-buenosaires.com^
@@ -132,8 +146,10 @@
 ||kalkar-handel.com^
 ||kartenschatz.shop^
 ||keinerleiholz.de^
+||kfnkapital-gruppe.de^
 ||kingtcg.shop^
 ||klima-profi24.de^
+||klimaanlageportal.de^
 ||klimacare24.shop^
 ||kmotorrad.de^
 ||koppermuller-markt.de^
@@ -149,6 +165,7 @@
 ||levinberlin.com^
 ||limon-shop.at^
 ||lina-athens.com^
+||ludwigbergmanngmbh.de^
 ||luis-software.de^
 ||mammutjacke.com^
 ||manueleuropafahrschule.de^
@@ -160,7 +177,9 @@
 ||market.halewick.com^
 ||market.willowgroven.com^
 ||mediamarkt-gg.de^
+||meingartenportal.de^
 ||meingartenwelt.com^
+||meinpfotennetzwerk.de^
 ||midea-europa.de^
 ||midea-klimaanlage.de^
 ||midea-klimashop.de^
@@ -196,6 +215,7 @@
 ||prosolargen-strip.de^
 ||ra-owl.de^
 ||rachow-handel.com^
+||radmarkt-schaeler.de^
 ||rbpelleteck.com^
 ||rechtskanzlei-karls.de^
 ||redlich-becker.de^
@@ -206,8 +226,10 @@
 ||rudolphmaschine.de^
 ||rundumstrikot.de^
 ||samoonde.com^
+||saradhagroup.com^
 ||sarl-castelmag.com^
 ||sasprodesca.com^
+||schmidtmaschine.de^
 ||schnellenberger-haus.de^
 ||seatoria.com^
 ||shop.wonderproject.co.uk^
@@ -227,11 +249,13 @@
 ||spedition-tml.de^
 ||splima.de^
 ||stammholz-forest.com^
+||steinhofen-partner.de^
 ||stilwerk.shop^
 ||store.elmleigha.com^
 ||store.quarryby.com^
 ||store.woodgroven.com^
 ||sufrema-kaufen.de^
+||swabytec24.de^
 ||taotdzhi.shop^
 ||terraqo.de^
 ||tom-trailer.com^
@@ -247,6 +271,7 @@
 ||weber-baumarkt.com^
 ||werkzeugtechnik-jm.de^
 ||wetzlarindustrysolutions.com^
+||willms-forsttechnik.de^
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
