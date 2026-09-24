@@ -2,10 +2,11 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-23 08:43
+! Last modified: 2026-09-24 08:36
 ! Expires: 1 day
-! Entries: 272
+! Entries: 303
 
+||aeribold.com^
 ||agritechcenter.de^
 ||aktioncode.com^
 ||alpha3-gmbh.de^
@@ -20,11 +21,14 @@
 ||autohistorik.de^
 ||autonivo.de^
 ||bahntechnik-garten.de^
+||bauer-brennstoffe.com^
 ||baustoffe-sales.com^
 ||beatrice-london.com^
 ||bellataylor-newyork.com^
 ||bergmann-outdoor.com^
 ||bewegwelt.myshopify.com^
+||bike-striptechnology.de^
+||bikecouture.de^
 ||bikecube.de^
 ||biketools24.com^
 ||bioenergielogistik.de^
@@ -34,6 +38,8 @@
 ||boismat.de^
 ||bonvya.com^
 ||boomtownstreetwear.de^
+||boostertresor.com^
+||borde-brennholzpaulusgmbh.com^
 ||boxtrail.de^
 ||braunsale.de^
 ||brennholz-bernd.com^
@@ -49,9 +55,12 @@
 ||charlotte-sydney.com^
 ||chleaguy.com^
 ||clara-copenhagen.com^
+||containercst-gmbh.de^
 ||containerschiffsreedereigmbh.de^
 ||cyclemastersstore.com^
 ||dailyberlin.de^
+||dalacker-energie.com^
+||datenfin.de^
 ||de.shopmaxxs.com^
 ||debot-maschinen.de^
 ||derbyfahrrader.de^
@@ -59,6 +68,8 @@
 ||dieholzstucke.de^
 ||diermann-marketing.de^
 ||dunstabzugshaubenfilter24.com^
+||ealzsidb.shop^
+||ebike-outlestore.de^
 ||ebikeprofi24.de^
 ||ebm-heimwerk.com^
 ||elbcontainer24.de^
@@ -76,6 +87,7 @@
 ||etrias.de^
 ||eurlexodus.com^
 ||eurotech-diamant.de^
+||eventsamrhein.de^
 ||exklusivrad.de^
 ||expresskaminholz24.de^
 ||extralangrotary.com^
@@ -83,6 +95,7 @@
 ||fahrrad-zukunft.de^
 ||fahrradladen-klasen.de^
 ||falthammer-markt.com^
+||festgeldtracker.us.com^
 ||feuerholzexpress.de^
 ||findaten.de^
 ||finpruefer.de^
@@ -91,6 +104,7 @@
 ||fixeklima.de^
 ||florina-kaufen.de^
 ||flyerfahrrad.com^
+||forsage-gartenkauf.com^
 ||forstbedarf-blessing.de^
 ||frankefahrrad.de^
 ||furneo-handel.com^
@@ -103,6 +117,7 @@
 ||gartenmotoren.de^
 ||gepaecktasch.com^
 ||gfadenoaillac.com^
+||gfhltechnik.de^
 ||ghkmaili.shop^
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
@@ -119,6 +134,7 @@
 ||heineoutlet.com^
 ||heiz-fachmann.de^
 ||heizoel-fuchs24.de^
+||heizoel-preise.com^
 ||heizoel-welle.de^
 ||heizwelt24.de^
 ||hensel-markt.com^
@@ -126,6 +142,7 @@
 ||holz-wagner.com^
 ||holzbriketts-profi.de^
 ||holzgluck.de^
+||holzgutexpress.de^
 ||holzscheitenatur.com^
 ||home-geare.de^
 ||homvora.de^
@@ -168,6 +185,7 @@
 ||lina-athens.com^
 ||ludwigbergmanngmbh.de^
 ||luis-software.de^
+||mahlwerk-meisterei.de^
 ||mammutjacke.com^
 ||manueleuropafahrschule.de^
 ||margaret-london.com^
@@ -176,6 +194,7 @@
 ||market.fieldcrofton.com^
 ||market.glenleigha.com^
 ||market.halewick.com^
+||market.stonebournea.com^
 ||market.willowgroven.com^
 ||mediamarkt-gg.de^
 ||meingartenportal.de^
@@ -186,6 +205,7 @@
 ||midea-klimashop.de^
 ||midea-klimawelt.de^
 ||misterwinkler.de^
+||mkkrcwss.shop^
 ||mm-energies.de^
 ||mobel-wahls.shop^
 ||motoproof.de^
@@ -200,11 +220,13 @@
 ||nexuswebshop.com^
 ||nordevantis.de^
 ||nordhaus-handel.de^
+||nowfahrrad.de^
 ||olivia-leeds.com^
 ||ophirum-web.de^
 ||ophirum.online^
 ||ophirum.site^
 ||orion-warenhandel.com^
+||ostermaierbrennholz.de^
 ||otto-retouren.de^
 ||outdoorio.de^
 ||paulusbrennholz.com^
@@ -232,6 +254,7 @@
 ||sasprodesca.com^
 ||schmidtmaschine.de^
 ||schnellenberger-haus.de^
+||scierie-garmier.de^
 ||seatoria.com^
 ||shop.wonderproject.co.uk^
 ||shujuwang.de^
@@ -253,10 +276,13 @@
 ||steinhofen-partner.de^
 ||stilwerk.shop^
 ||store.elmleigha.com^
+||store.kingslora.com^
 ||store.quarryby.com^
+||store.ternwick.com^
 ||store.woodgroven.com^
 ||sufrema-kaufen.de^
 ||swabytec24.de^
+||talidix.com^
 ||taotdzhi.shop^
 ||terraqo.de^
 ||tom-trailer.com^
@@ -265,11 +291,14 @@
 ||verbraucherfokus-test.de^
 ||verbraucherzentrale-finanzen.org^
 ||vezeretransports.com^
+||vision-velo.com^
+||volturexa.de^
 ||vone-shop.com^
 ||vorwerk-tm.de^
 ||waerme-pumpen24.de^
 ||waschmaschinen-spezialist.de^
 ||weber-baumarkt.com^
+||werkswagen-porsche.de^
 ||werkzeugtechnik-jm.de^
 ||wetzlarindustrysolutions.com^
 ||willms-forsttechnik.de^
@@ -278,3 +307,5 @@
 ||wisdom-heimbedarf.com^
 ||work-co.de^
 ||wrexio.com^
+||yzorigwl.shop^
+||zeols.com^
