@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-24 08:36
+! Last modified: 2026-09-25 08:58
 ! Expires: 1 day
-! Entries: 303
+! Entries: 307
 
 ||aeribold.com^
 ||agritechcenter.de^
@@ -45,6 +45,7 @@
 ||brennholz-bernd.com^
 ||brennholz-hans.de^
 ||brennholzbredemeier.com^
+||brennholzhochwald-de.com^
 ||brennstoffe-weddeling.com^
 ||bundes-finanzservice.de^
 ||camerapicks.com^
@@ -72,6 +73,7 @@
 ||ebike-outlestore.de^
 ||ebikeprofi24.de^
 ||ebm-heimwerk.com^
+||edelmetallshop24.com^
 ||elbcontainer24.de^
 ||electra-royal.de^
 ||elektriker-buchwald.de^
@@ -213,6 +215,7 @@
 ||mpq-ebiketechnik.de^
 ||mrifhvn.shop^
 ||mtiialolo.com^
+||muenzencorner.com^
 ||muenzenvault.com^
 ||nanovault.de^
 ||narcyveloshop.com^
@@ -248,6 +251,7 @@
 ||rqhtyztv.shop^
 ||rudolphmaschine.de^
 ||rundumstrikot.de^
+||sabrobrand.shop^
 ||samoonde.com^
 ||saradhagroup.com^
 ||sarl-castelmag.com^
