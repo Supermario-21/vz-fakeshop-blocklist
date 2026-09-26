@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-25 08:58
+! Last modified: 2026-09-26 08:44
 ! Expires: 1 day
-! Entries: 307
+! Entries: 324
 
 ||aeribold.com^
 ||agritechcenter.de^
@@ -16,6 +16,7 @@
 ||anhangermaschinen.de^
 ||apionier.com^
 ||aristos24.de^
+||ascherslebener-holzhandel.de^
 ||atlascontainerlogistikgmbh.de^
 ||auto-export-augsburg.de^
 ||autohistorik.de^
@@ -47,6 +48,7 @@
 ||brennholzbredemeier.com^
 ||brennholzhochwald-de.com^
 ||brennstoffe-weddeling.com^
+||brennstoffemokstat.shop^
 ||bundes-finanzservice.de^
 ||camerapicks.com^
 ||campingspezialisten.com^
@@ -62,17 +64,21 @@
 ||dailyberlin.de^
 ||dalacker-energie.com^
 ||datenfin.de^
+||de.bio-brennholz.de^
+||de.novintra.shop^
 ||de.shopmaxxs.com^
 ||debot-maschinen.de^
 ||derbyfahrrader.de^
 ||deutschemobel.com^
 ||dieholzstucke.de^
 ||diermann-marketing.de^
+||distri-globe.de^
 ||dunstabzugshaubenfilter24.com^
 ||ealzsidb.shop^
 ||ebike-outlestore.de^
 ||ebikeprofi24.de^
 ||ebm-heimwerk.com^
+||ecoworkss.store^
 ||edelmetallshop24.com^
 ||elbcontainer24.de^
 ||electra-royal.de^
@@ -86,6 +92,7 @@
 ||ersatzteilesale.com^
 ||eshop.kestmere.com^
 ||eshop.quarryby.com^
+||eshop.stonebournea.com^
 ||etrias.de^
 ||eurlexodus.com^
 ||eurotech-diamant.de^
@@ -96,6 +103,7 @@
 ||fahrklarheit.de^
 ||fahrrad-zukunft.de^
 ||fahrradladen-klasen.de^
+||fahrzeugspur.de^
 ||falthammer-markt.com^
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
@@ -139,6 +147,7 @@
 ||heizoel-preise.com^
 ||heizoel-welle.de^
 ||heizwelt24.de^
+||hellhausgarten.com^
 ||hensel-markt.com^
 ||hjz-handel.de^
 ||holz-wagner.com^
@@ -193,6 +202,7 @@
 ||margaret-london.com^
 ||mariasydney.com^
 ||marinesafetygear.com^
+||market.ashfielden.com^
 ||market.fieldcrofton.com^
 ||market.glenleigha.com^
 ||market.halewick.com^
@@ -239,6 +249,7 @@
 ||praxisklinik-muelheim.de^
 ||preis-zwerg.de^
 ||prosolargen-strip.de^
+||qrlsvssy.shop^
 ||ra-owl.de^
 ||rachow-handel.com^
 ||radmarkt-schaeler.de^
@@ -289,12 +300,15 @@
 ||talidix.com^
 ||taotdzhi.shop^
 ||terraqo.de^
+||tokietmo.shop^
 ||tom-trailer.com^
 ||trekkinggearwarehouse.com^
+||ufheimwerker-de.com^
 ||vdel-electromenager.com^
 ||verbraucherfokus-test.de^
 ||verbraucherzentrale-finanzen.org^
 ||vezeretransports.com^
+||viewhaushaltswaren.shop^
 ||vision-velo.com^
 ||volturexa.de^
 ||vone-shop.com^
@@ -302,6 +316,7 @@
 ||waerme-pumpen24.de^
 ||waschmaschinen-spezialist.de^
 ||weber-baumarkt.com^
+||wensauer-holz.com^
 ||werkswagen-porsche.de^
 ||werkzeugtechnik-jm.de^
 ||wetzlarindustrysolutions.com^
@@ -309,7 +324,9 @@
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
+||wloka-brennholz.de^
 ||work-co.de^
 ||wrexio.com^
+||ysa-handels.com^
 ||yzorigwl.shop^
 ||zeols.com^
