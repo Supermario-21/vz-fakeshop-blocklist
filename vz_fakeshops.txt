@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-26 08:44
+! Last modified: 2026-09-27 09:24
 ! Expires: 1 day
-! Entries: 324
+! Entries: 323
 
 ||aeribold.com^
 ||agritechcenter.de^
@@ -144,7 +144,6 @@
 ||heineoutlet.com^
 ||heiz-fachmann.de^
 ||heizoel-fuchs24.de^
-||heizoel-preise.com^
 ||heizoel-welle.de^
 ||heizwelt24.de^
 ||hellhausgarten.com^
