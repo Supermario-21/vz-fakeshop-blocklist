@@ -2,12 +2,13 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-28 10:00
+! Last modified: 2026-09-29 09:59
 ! Expires: 1 day
-! Entries: 323
+! Entries: 327
 
 ||aeribold.com^
 ||agritechcenter.de^
+||aknowi.de^
 ||aktioncode.com^
 ||alpha3-gmbh.de^
 ||alskdrmo.shop^
@@ -118,6 +119,7 @@
 ||forstbedarf-blessing.de^
 ||frankefahrrad.de^
 ||furneo-handel.com^
+||furnilivora.com^
 ||fwnkeoyt.shop^
 ||gaborshops.com^
 ||garden-de.myshopify.com^
@@ -144,6 +146,7 @@
 ||heineoutlet.com^
 ||heiz-fachmann.de^
 ||heizoel-fuchs24.de^
+||heizoel-online.com^
 ||heizoel-welle.de^
 ||heizwelt24.de^
 ||hellhausgarten.com^
@@ -172,6 +175,7 @@
 ||k-ebikegmbh.de^
 ||kaelte-bringer.de^
 ||kalkar-handel.com^
+||kanzlei-hexental.de^
 ||kartenschatz.shop^
 ||keinerleiholz.de^
 ||kfnkapital-gruppe.de^
@@ -234,7 +238,6 @@
 ||nordhaus-handel.de^
 ||nowfahrrad.de^
 ||olivia-leeds.com^
-||ophirum-web.de^
 ||ophirum.online^
 ||ophirum.site^
 ||orion-warenhandel.com^
@@ -261,6 +264,7 @@
 ||rqhtyztv.shop^
 ||rudolphmaschine.de^
 ||rundumstrikot.de^
+||sabineheidelberg.de^
 ||sabrobrand.shop^
 ||samoonde.com^
 ||saradhagroup.com^
