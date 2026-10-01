@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-09-30 09:51
+! Last modified: 2026-10-01 10:19
 ! Expires: 1 day
-! Entries: 255
+! Entries: 266
 
 ||aeribold.com^
 ||agritechcenter.de^
@@ -16,6 +16,7 @@
 ||aristos24.de^
 ||ascherslebener-holzhandel.de^
 ||atlascontainerlogistikgmbh.de^
+||autohaus-temuer.de^
 ||autohistorik.de^
 ||autonivo.de^
 ||bahntechnik-garten.de^
@@ -41,6 +42,7 @@
 ||brennholz-hans.de^
 ||brennholzbredemeier.com^
 ||brennholzhochwald-de.com^
+||brennkiste.de^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
 ||camerapicks.com^
@@ -68,6 +70,7 @@
 ||ealzsidb.shop^
 ||ebike-outlestore.de^
 ||ebikeprofi24.de^
+||ebikezeit-fahrrad.de^
 ||ebm-heimwerk.com^
 ||ecoworkss.store^
 ||edelmetallshop24.com^
@@ -92,6 +95,8 @@
 ||falthammer-markt.com^
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
+||feuerholzliebe.de^
+||finbefund.de^
 ||findaten.de^
 ||finpruefer.de^
 ||fixardo.de^
@@ -122,15 +127,20 @@
 ||heizoel-welle.de^
 ||heizwelt24.de^
 ||hellhausgarten.com^
+||helvaron.shop^
 ||hensel-markt.com^
 ||hjz-handel.de^
+||holz-market.com^
 ||holz-wagner.com^
 ||holzbriketts-profi.de^
 ||holzgluck.de^
 ||holzgutexpress.de^
+||holzliefernexpress.de^
+||holzregional.de^
 ||holzscheitenatur.com^
 ||homvora.de^
 ||hornwald.de^
+||hselbe-fahrrad.de^
 ||hubwerkshop24.com^
 ||ihk-eforen.de^
 ||isabella-buenosaires.com^
@@ -234,6 +244,7 @@
 ||swabytec24.de^
 ||talidix.com^
 ||taotdzhi.shop^
+||tischlereijache-shop.de^
 ||tokietmo.shop^
 ||tom-trailer.com^
 ||ufheimwerker-de.com^
