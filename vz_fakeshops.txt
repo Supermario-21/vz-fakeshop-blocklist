@@ -2,12 +2,14 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-02 09:56
+! Last modified: 2026-10-03 09:18
 ! Expires: 1 day
-! Entries: 267
+! Entries: 289
 
 ||aeribold.com^
+||aerzteregistrat.de^
 ||agritechcenter.de^
+||aio-vita.com^
 ||aknowi.de^
 ||aktioncode.com^
 ||alpha3-gmbh.de^
@@ -19,6 +21,7 @@
 ||autohaus-temuer.de^
 ||autohistorik.de^
 ||autonivo.de^
+||backenundsuben.com^
 ||bahntechnik-garten.de^
 ||bauer-brennstoffe.com^
 ||baustoffe-sales.com^
@@ -49,6 +52,7 @@
 ||canyonoutlet.de^
 ||celeste-milano.com^
 ||cfbl-premiumholz.de^
+||charentesalliance.com^
 ||charlotte-sydney.com^
 ||chleaguy.com^
 ||clara-copenhagen.com^
@@ -57,6 +61,7 @@
 ||cyclemastersstore.com^
 ||dailyberlin.de^
 ||dalacker-energie.com^
+||dankers-containers.de^
 ||datenfin.de^
 ||de.bio-brennholz.de^
 ||de.novintra.shop^
@@ -66,7 +71,10 @@
 ||dieholzstucke.de^
 ||diermann-marketing.de^
 ||distri-globe.de^
+||diyhandels-de.com^
+||doormey.myshopify.com^
 ||dunstabzugshaubenfilter24.com^
+||e24-shopech.com^
 ||ealzsidb.shop^
 ||ebike-outlestore.de^
 ||ebikeprofi24.de^
@@ -93,6 +101,7 @@
 ||fahrrad-zukunft.de^
 ||fahrzeugspur.de^
 ||falthammer-markt.com^
+||fastenergy24.com^
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
 ||feuerholzliebe.de^
@@ -115,13 +124,16 @@
 ||gfhltechnik.de^
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
+||goldbesitz.com^
 ||grand-bazar.de^
+||grillhausug.com^
 ||gruenliva.de^
 ||hannahamburg.com^
 ||hannibalcorp.com^
 ||haus-lieblinge.de^
 ||haushaltsgeraete-profis.de^
 ||heineoutlet.com^
+||heizholz-express.com^
 ||heizoel-fuchs24.de^
 ||heizoel-online.com^
 ||heizoel-welle.de^
@@ -138,6 +150,7 @@
 ||holzliefernexpress.de^
 ||holzregional.de^
 ||holzscheitenatur.com^
+||holzwaermedirekt.de^
 ||homvora.de^
 ||hornwald.de^
 ||hselbe-fahrrad.de^
@@ -159,6 +172,7 @@
 ||lamerahomemobel.shop^
 ||larshamburg.com^
 ||lebenskernde.com^
+||lesboisdubreuil.com^
 ||levinberlin.com^
 ||limon-shop.at^
 ||lina-athens.com^
@@ -185,6 +199,7 @@
 ||mkkrcwss.shop^
 ||mm-energies.de^
 ||mobel-wahls.shop^
+||mollerbrennholzhandelgmbh.de^
 ||motoproof.de^
 ||mototeilecenter.com^
 ||mpq-ebiketechnik.de^
@@ -192,6 +207,7 @@
 ||mtiialolo.com^
 ||muenzencorner.com^
 ||muenzenvault.com^
+||musicianshop.de^
 ||narcyveloshop.com^
 ||nebelrad.de^
 ||nexuswebshop.com^
@@ -203,24 +219,29 @@
 ||paulusbrennholz.com^
 ||pelletpoint77gmbh.de^
 ||praxisklinik-muelheim.de^
+||primini.shop^
 ||prosolargen-strip.de^
 ||qrlsvssy.shop^
 ||ra-owl.de^
 ||rachow-handel.com^
+||racineelectromenager.com^
 ||radmarkt-schaeler.de^
 ||rbpelleteck.com^
 ||respira.berlin^
 ||reynamobel.shop^
 ||riley-vancouver.com^
 ||rudolphmaschine.de^
+||rundholzdirekt.de^
 ||sabineheidelberg.de^
 ||sabrobrand.shop^
 ||samoonde.com^
 ||saradhagroup.com^
 ||sasprodesca.com^
+||scandiwarm.com^
 ||schmidtmaschine.de^
 ||schnellenberger-haus.de^
 ||scierie-garmier.de^
+||sciponoe.com^
 ||seatoria.com^
 ||sigl-inso.de^
 ||sl-handel.com^
@@ -251,6 +272,7 @@
 ||universalsack.com^
 ||vdel-electromenager.com^
 ||verbraucherzentrale-finanzen.org^
+||verlinggroup.com^
 ||vezeretransports.com^
 ||viewhaushaltswaren.shop^
 ||vision-velo.com^
