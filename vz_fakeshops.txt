@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-05 10:41
+! Last modified: 2026-10-06 10:35
 ! Expires: 1 day
-! Entries: 289
+! Entries: 291
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -14,6 +14,7 @@
 ||aktioncode.com^
 ||alpha3-gmbh.de^
 ||am-onlinehandel.de^
+||anhaenger-brennholz.de^
 ||apionier.com^
 ||aristos24.de^
 ||ascherslebener-holzhandel.de^
@@ -45,6 +46,7 @@
 ||brennholz-hans.de^
 ||brennholzbredemeier.com^
 ||brennholzhochwald-de.com^
+||brennholzkraft.com^
 ||brennkiste.de^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
