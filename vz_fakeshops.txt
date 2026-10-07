@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-06 10:35
+! Last modified: 2026-10-07 10:26
 ! Expires: 1 day
-! Entries: 291
+! Entries: 297
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -43,6 +43,7 @@
 ||borde-brennholzpaulusgmbh.com^
 ||boxtrail.de^
 ||brennholz-bernd.com^
+||brennholz-deckarm.shop^
 ||brennholz-hans.de^
 ||brennholzbredemeier.com^
 ||brennholzhochwald-de.com^
@@ -127,6 +128,7 @@
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
 ||goldbesitz.com^
+||goldstern-elektro.com^
 ||grand-bazar.de^
 ||grillhausug.com^
 ||gruenliva.de^
@@ -149,6 +151,7 @@
 ||holzbriketts-profi.de^
 ||holzgluck.de^
 ||holzgutexpress.de^
+||holzkamin.com^
 ||holzliefernexpress.de^
 ||holzregional.de^
 ||holzscheitenatur.com^
@@ -191,9 +194,11 @@
 ||market.stonebournea.com^
 ||market.willowgroven.com^
 ||mediamarkt-gg.de^
+||meifenspiel.com^
 ||meingartenportal.de^
 ||meingartenwelt.com^
 ||meinpfotennetzwerk.de^
+||melano-berlin.com^
 ||midea-klimaanlage.de^
 ||midea-klimashop.de^
 ||midea-klimawelt.de^
@@ -201,6 +206,7 @@
 ||mkkrcwss.shop^
 ||mm-energies.de^
 ||mobel-wahls.shop^
+||modehaushartmann.de^
 ||mollerbrennholzhandelgmbh.de^
 ||motoproof.de^
 ||mototeilecenter.com^
