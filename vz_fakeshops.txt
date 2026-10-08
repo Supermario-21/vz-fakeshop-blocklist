@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-07 10:26
+! Last modified: 2026-10-08 10:47
 ! Expires: 1 day
-! Entries: 297
+! Entries: 302
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -58,11 +58,13 @@
 ||charentesalliance.com^
 ||charlotte-sydney.com^
 ||chleaguy.com^
+||cjtzat.shop^
 ||clara-copenhagen.com^
 ||containercst-gmbh.de^
 ||containerschiffsreedereigmbh.de^
+||cosmic-tower.ch^
+||cosmictower.ch^
 ||cyclemastersstore.com^
-||dailyberlin.de^
 ||dalacker-energie.com^
 ||dankers-containers.de^
 ||datenfin.de^
@@ -77,6 +79,8 @@
 ||diyhandels-de.com^
 ||doormey.myshopify.com^
 ||dunstabzugshaubenfilter24.com^
+||e-bikesmkgmbh-de.com^
+||e-bikesmkgmbh.com^
 ||e24-shopech.com^
 ||ealzsidb.shop^
 ||ebike-outlestore.de^
@@ -139,6 +143,7 @@
 ||heineoutlet.com^
 ||heizholz-express.com^
 ||heizoel-fuchs24.de^
+||heizoel-genial.com^
 ||heizoel-online.com^
 ||heizoel-welle.de^
 ||heizwelt24.de^
