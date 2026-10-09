@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-08 10:47
+! Last modified: 2026-10-09 10:45
 ! Expires: 1 day
-! Entries: 302
+! Entries: 319
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -15,6 +15,7 @@
 ||alpha3-gmbh.de^
 ||am-onlinehandel.de^
 ||anhaenger-brennholz.de^
+||anhaengerliebe.de^
 ||apionier.com^
 ||aristos24.de^
 ||ascherslebener-holzhandel.de^
@@ -47,10 +48,12 @@
 ||brennholz-hans.de^
 ||brennholzbredemeier.com^
 ||brennholzhochwald-de.com^
+||brennholzkontorscharf.de^
 ||brennholzkraft.com^
 ||brennkiste.de^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
+||brennstoffhandel-behnke.de^
 ||camerapicks.com^
 ||canyonoutlet.de^
 ||celeste-milano.com^
@@ -106,6 +109,7 @@
 ||expresskaminholz24.de^
 ||fahrklarheit.de^
 ||fahrrad-zukunft.de^
+||fahrradu.de^
 ||fahrzeugspur.de^
 ||falthammer-markt.com^
 ||fastenergy24.com^
@@ -126,6 +130,7 @@
 ||garden-de.myshopify.com^
 ||gartenexperte24.com^
 ||gartenmotoren.de^
+||gartentechnikwelt.de^
 ||gepaecktasch.com^
 ||gfadenoaillac.com^
 ||gfhltechnik.de^
@@ -154,6 +159,8 @@
 ||holz-market.com^
 ||holz-wagner.com^
 ||holzbriketts-profi.de^
+||holzfeuerlust.de^
+||holzfurwinter.com^
 ||holzgluck.de^
 ||holzgutexpress.de^
 ||holzkamin.com^
@@ -178,16 +185,20 @@
 ||klimacare24.shop^
 ||kmotorrad.de^
 ||kronsummitgmbh.de^
+||kuk-kaffee.de^
 ||kuriovault.com^
 ||lamerahomemobel.shop^
 ||larshamburg.com^
 ||lebenskernde.com^
 ||lesboisdubreuil.com^
 ||levinberlin.com^
+||lichtwappen.de^
 ||limon-shop.at^
 ||lina-athens.com^
+||lkwpetru-shop.com^
 ||ludwigbergmanngmbh.de^
 ||luis-software.de^
+||machinery-technologyeuropeltd.de^
 ||mahlwerk-meisterei.de^
 ||mammutjacke.com^
 ||manueleuropafahrschule.de^
@@ -198,6 +209,8 @@
 ||market.glenleigha.com^
 ||market.stonebournea.com^
 ||market.willowgroven.com^
+||marktkaminofenholz.com^
+||mayer-geraete24.de^
 ||mediamarkt-gg.de^
 ||meifenspiel.com^
 ||meingartenportal.de^
@@ -238,8 +251,10 @@
 ||ra-owl.de^
 ||rachow-handel.com^
 ||racineelectromenager.com^
+||radfit24.com^
 ||radmarkt-schaeler.de^
 ||rbpelleteck.com^
+||reptailshop.de^
 ||respira.berlin^
 ||reynamobel.shop^
 ||riley-vancouver.com^
@@ -275,9 +290,11 @@
 ||store.ternwick.com^
 ||store.woodgroven.com^
 ||sufrema-kaufen.de^
+||sunpowerprofi.de^
 ||swabytec24.de^
 ||talidix.com^
 ||taotdzhi.shop^
+||tektronix-gmbh.com^
 ||tischlereijache-shop.de^
 ||tokietmo.shop^
 ||tom-trailer.com^
