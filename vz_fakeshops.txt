@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-09 10:45
+! Last modified: 2026-10-10 10:01
 ! Expires: 1 day
-! Entries: 319
+! Entries: 342
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -25,11 +25,13 @@
 ||autonivo.de^
 ||backenundsuben.com^
 ||bahntechnik-garten.de^
+||batterie-industrie-germany.de^
 ||bauer-brennstoffe.com^
 ||baustoffe-sales.com^
 ||beatrice-london.com^
 ||bellataylor-newyork.com^
 ||bergmann-outdoor.com^
+||berlin-brennstoffe.de^
 ||bewegwelt.myshopify.com^
 ||bike-striptechnology.de^
 ||bikecouture.de^
@@ -50,12 +52,14 @@
 ||brennholzhochwald-de.com^
 ||brennholzkontorscharf.de^
 ||brennholzkraft.com^
+||brennholzschneblegmbh.com^
 ||brennkiste.de^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
 ||brennstoffhandel-behnke.de^
 ||camerapicks.com^
 ||canyonoutlet.de^
+||carpruf.de^
 ||celeste-milano.com^
 ||cfbl-premiumholz.de^
 ||charentesalliance.com^
@@ -73,6 +77,7 @@
 ||datenfin.de^
 ||de.bio-brennholz.de^
 ||de.novintra.shop^
+||de.plantiter.shop^
 ||de.shopmaxxs.com^
 ||debot-maschinen.de^
 ||derbyfahrrader.de^
@@ -116,6 +121,7 @@
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
 ||feuerholzliebe.de^
+||feuerund-holz.de^
 ||finbefund.de^
 ||findaten.de^
 ||finpruefer.de^
@@ -132,10 +138,12 @@
 ||gartenmotoren.de^
 ||gartentechnikwelt.de^
 ||gepaecktasch.com^
+||gerardusbraas.com^
 ||gfadenoaillac.com^
 ||gfhltechnik.de^
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
+||goillo.com^
 ||goldbesitz.com^
 ||goldstern-elektro.com^
 ||grand-bazar.de^
@@ -145,8 +153,10 @@
 ||hannibalcorp.com^
 ||haus-lieblinge.de^
 ||haushaltsgeraete-profis.de^
+||hauspellets.de^
 ||heineoutlet.com^
 ||heizholz-express.com^
+||heizoel-bio.com^
 ||heizoel-fuchs24.de^
 ||heizoel-genial.com^
 ||heizoel-online.com^
@@ -190,6 +200,7 @@
 ||lamerahomemobel.shop^
 ||larshamburg.com^
 ||lebenskernde.com^
+||legnaepellet24.it^
 ||lesboisdubreuil.com^
 ||levinberlin.com^
 ||lichtwappen.de^
@@ -210,6 +221,8 @@
 ||market.stonebournea.com^
 ||market.willowgroven.com^
 ||marktkaminofenholz.com^
+||marnau.shop^
+||maschine1shop.com^
 ||mayer-geraete24.de^
 ||mediamarkt-gg.de^
 ||meifenspiel.com^
@@ -220,6 +233,8 @@
 ||midea-klimaanlage.de^
 ||midea-klimashop.de^
 ||midea-klimawelt.de^
+||mimosashop.de^
+||minibagger360.de^
 ||misterwinkler.de^
 ||mkkrcwss.shop^
 ||mm-energies.de^
@@ -234,8 +249,10 @@
 ||muenzencorner.com^
 ||muenzenvault.com^
 ||musicianshop.de^
+||nagelein-handel.com^
 ||narcyveloshop.com^
 ||nebelrad.de^
+||netzpro.shop^
 ||nexuswebshop.com^
 ||nordhaus-handel.de^
 ||nowfahrrad.de^
@@ -244,6 +261,7 @@
 ||otto-retouren.de^
 ||paulusbrennholz.com^
 ||pelletpoint77gmbh.de^
+||peptide-shop.org^
 ||praxisklinik-muelheim.de^
 ||primini.shop^
 ||prosolargen-strip.de^
@@ -263,15 +281,17 @@
 ||sabineheidelberg.de^
 ||sabrobrand.shop^
 ||samoonde.com^
-||saradhagroup.com^
 ||sasprodesca.com^
+||sasstone.com^
 ||scandiwarm.com^
 ||schmidtmaschine.de^
 ||schnellenberger-haus.de^
 ||scierie-garmier.de^
 ||sciponoe.com^
+||scs-elektro.de^
 ||seatoria.com^
 ||sigl-inso.de^
+||sissoko-keita.com^
 ||sl-handel.com^
 ||sofia-barcelona.com^
 ||solarosales-green.com^
@@ -283,6 +303,7 @@
 ||sparhaustechnik.de^
 ||spedition-tml.de^
 ||stammholz-forest.com^
+||steflio.com^
 ||steinhofen-partner.de^
 ||store.elmleigha.com^
 ||store.kingslora.com^
@@ -300,6 +321,7 @@
 ||tom-trailer.com^
 ||ufheimwerker-de.com^
 ||universalsack.com^
+||varzunel.com^
 ||vdel-electromenager.com^
 ||verbraucherzentrale-finanzen.org^
 ||verlinggroup.com^
@@ -320,6 +342,7 @@
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wloka-brennholz.de^
+||wohnelva.de^
 ||work-co.de^
 ||wrexio.com^
 ||ysa-handels.com^
