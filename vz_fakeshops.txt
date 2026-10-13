@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-12 11:08
+! Last modified: 2026-10-13 10:50
 ! Expires: 1 day
-! Entries: 342
+! Entries: 343
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -25,7 +25,6 @@
 ||autonivo.de^
 ||backenundsuben.com^
 ||bahntechnik-garten.de^
-||batterie-industrie-germany.de^
 ||bauer-brennstoffe.com^
 ||baustoffe-sales.com^
 ||beatrice-london.com^
@@ -262,6 +261,7 @@
 ||paulusbrennholz.com^
 ||pelletpoint77gmbh.de^
 ||peptide-shop.org^
+||philoro.online^
 ||praxisklinik-muelheim.de^
 ||primini.shop^
 ||prosolargen-strip.de^
@@ -321,6 +321,7 @@
 ||tom-trailer.com^
 ||ufheimwerker-de.com^
 ||universalsack.com^
+||vape-de.de^
 ||varzunel.com^
 ||vdel-electromenager.com^
 ||verbraucherzentrale-finanzen.org^
