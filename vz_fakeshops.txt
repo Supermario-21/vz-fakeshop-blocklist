@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-13 10:50
+! Last modified: 2026-10-14 08:53
 ! Expires: 1 day
-! Entries: 343
+! Entries: 350
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -47,6 +47,7 @@
 ||brennholz-bernd.com^
 ||brennholz-deckarm.shop^
 ||brennholz-hans.de^
+||brennholzangebot.com^
 ||brennholzbredemeier.com^
 ||brennholzhochwald-de.com^
 ||brennholzkontorscharf.de^
@@ -79,6 +80,7 @@
 ||de.plantiter.shop^
 ||de.shopmaxxs.com^
 ||debot-maschinen.de^
+||delphios.shop^
 ||derbyfahrrader.de^
 ||dieholzstucke.de^
 ||diermann-marketing.de^
@@ -117,6 +119,7 @@
 ||fahrzeugspur.de^
 ||falthammer-markt.com^
 ||fastenergy24.com^
+||fest-holz.com^
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
 ||feuerholzliebe.de^
@@ -148,6 +151,7 @@
 ||grand-bazar.de^
 ||grillhausug.com^
 ||gruenliva.de^
+||halseband-technik.de^
 ||hannahamburg.com^
 ||hannibalcorp.com^
 ||haus-lieblinge.de^
@@ -186,6 +190,7 @@
 ||johdorbrennholz.com^
 ||julia-madrid.com^
 ||kalkar-handel.com^
+||kaltesholz.com^
 ||kanzlei-hexental.de^
 ||kfnkapital-gruppe.de^
 ||kingtcg.shop^
@@ -209,6 +214,7 @@
 ||ludwigbergmanngmbh.de^
 ||luis-software.de^
 ||machinery-technologyeuropeltd.de^
+||magiluxe-store.com^
 ||mahlwerk-meisterei.de^
 ||mammutjacke.com^
 ||manueleuropafahrschule.de^
@@ -266,6 +272,7 @@
 ||primini.shop^
 ||prosolargen-strip.de^
 ||qrlsvssy.shop^
+||quarvesta.shop^
 ||ra-owl.de^
 ||rachow-handel.com^
 ||racineelectromenager.com^
