@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-16 08:21
+! Last modified: 2026-10-17 07:56
 ! Expires: 1 day
-! Entries: 353
+! Entries: 380
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -12,6 +12,7 @@
 ||aio-vita.com^
 ||aknowi.de^
 ||aktioncode.com^
+||allergocover.care^
 ||alpha3-gmbh.de^
 ||am-onlinehandel.de^
 ||anhaenger-brennholz.de^
@@ -52,15 +53,20 @@
 ||brennholzhochwald-de.com^
 ||brennholzkontorscharf.de^
 ||brennholzkraft.com^
+||brennholzprofipretzl.de^
 ||brennholzschneblegmbh.com^
 ||brennkiste.de^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
 ||brennstoffhandel-behnke.de^
+||buchlaterne.de^
 ||camerapicks.com^
+||campusfahrradergmbh.de^
 ||canyonoutlet.de^
 ||carpruf.de^
 ||celeste-milano.com^
+||centraltradingshop.com^
+||cf-handelsshop.com^
 ||cfbl-premiumholz.de^
 ||charentesalliance.com^
 ||charlotte-sydney.com^
@@ -72,6 +78,7 @@
 ||cosmic-tower.ch^
 ||cosmictower.ch^
 ||cyclemastersstore.com^
+||daily-outfit.de^
 ||dalacker-energie.com^
 ||dankers-containers.de^
 ||datenfin.de^
@@ -82,6 +89,7 @@
 ||debot-maschinen.de^
 ||delphios.shop^
 ||derbyfahrrader.de^
+||dieameisenmaler.com^
 ||dieameisenmaler.myshopify.com^
 ||dieholzstucke.de^
 ||diermann-marketing.de^
@@ -99,6 +107,8 @@
 ||ebm-heimwerk.com^
 ||ecoworkss.store^
 ||edelmetallshop24.com^
+||eg-tradeshop.com^
+||einstefeg.shop^
 ||elbcontainer24.de^
 ||electra-royal.de^
 ||elektriker-buchwald.de^
@@ -107,6 +117,7 @@
 ||energie-schnell.com^
 ||ennssale.shop^
 ||equaloxchange.shop^
+||escobike.shop^
 ||eshop.kestmere.com^
 ||eshop.quarryby.com^
 ||eshop.stonebournea.com^
@@ -119,7 +130,6 @@
 ||fahrradu.de^
 ||fahrzeugspur.de^
 ||falthammer-markt.com^
-||fastenergy24.com^
 ||fest-holz.com^
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
@@ -128,6 +138,7 @@
 ||finbefund.de^
 ||findaten.de^
 ||finpruefer.de^
+||finsiegel.de^
 ||fixardo.de^
 ||flyerfahrrad.com^
 ||forsage-gartenkauf.com^
@@ -136,6 +147,7 @@
 ||furneo-handel.com^
 ||furnilivora.com^
 ||fwnkeoyt.shop^
+||fxtpi.shop^
 ||garden-de.myshopify.com^
 ||gartenexperte24.com^
 ||gartenmotoren.de^
@@ -155,8 +167,10 @@
 ||halseband-technik.de^
 ||hannahamburg.com^
 ||hannibalcorp.com^
+||hannoverebikes.de^
 ||haus-lieblinge.de^
 ||haushaltsgeraete-profis.de^
+||hauslich.com^
 ||hauspellets.de^
 ||heineoutlet.com^
 ||heizholz-express.com^
@@ -193,6 +207,8 @@
 ||kalkar-handel.com^
 ||kaltesholz.com^
 ||kanzlei-hexental.de^
+||kaufello.shop^
+||kcfvsjpr.shop^
 ||kfnkapital-gruppe.de^
 ||kingtcg.shop^
 ||klima-profi24.de^
@@ -251,6 +267,7 @@
 ||mototeilecenter.com^
 ||mpq-ebiketechnik.de^
 ||mrifhvn.shop^
+||msihandelgmbh.de^
 ||mtiialolo.com^
 ||muenzencorner.com^
 ||muenzenvault.com^
@@ -258,14 +275,18 @@
 ||nagelein-handel.com^
 ||narcyveloshop.com^
 ||nebelrad.de^
+||neology-stripe.de^
 ||netzpro.shop^
 ||nexuswebshop.com^
+||nicoudo.com^
 ||nordhaus-handel.de^
 ||nowfahrrad.de^
+||oko-spechtbrennholzgmbh.de^
 ||olivia-leeds.com^
 ||ostermaierbrennholz.de^
 ||otto-retouren.de^
 ||paulusbrennholz.com^
+||pelletkontor.de^
 ||pelletpoint77gmbh.de^
 ||peptide-shop.org^
 ||philoro.online^
@@ -284,10 +305,12 @@
 ||respira.berlin^
 ||reynamobel.shop^
 ||riley-vancouver.com^
+||rmwpharw.shop^
 ||rudolphmaschine.de^
 ||rundholzdirekt.de^
 ||sabineheidelberg.de^
 ||sabrobrand.shop^
+||saia-maschinen.com^
 ||samoonde.com^
 ||sasprodesca.com^
 ||sasstone.com^
@@ -324,6 +347,7 @@
 ||swabytec24.de^
 ||talidix.com^
 ||taotdzhi.shop^
+||tc-germany.com^
 ||tektronix-gmbh.com^
 ||tischlereijache-shop.de^
 ||tokietmo.shop^
@@ -338,6 +362,7 @@
 ||vezeretransports.com^
 ||viewhaushaltswaren.shop^
 ||vision-velo.com^
+||vogeler-technik.de^
 ||volturexa.de^
 ||vone-shop.com^
 ||vorwerk-tm.de^
@@ -352,6 +377,7 @@
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wloka-brennholz.de^
+||wmuwoebj.shop^
 ||wohnelva.de^
 ||wohnenideenalltag.com^
 ||work-co.de^
@@ -359,3 +385,4 @@
 ||ysa-handels.com^
 ||yzorigwl.shop^
 ||zeols.com^
+||zvelonium.de^
