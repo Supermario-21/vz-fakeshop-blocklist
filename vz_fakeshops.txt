@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-20 08:44
+! Last modified: 2026-10-21 08:44
 ! Expires: 1 day
-! Entries: 381
+! Entries: 382
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -305,6 +305,7 @@
 ||reptailshop.de^
 ||respira.berlin^
 ||reynamobel.shop^
+||riedelweinglaser.de^
 ||riley-vancouver.com^
 ||rmwpharw.shop^
 ||rudolphmaschine.de^
