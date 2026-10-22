@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-21 08:44
+! Last modified: 2026-10-22 08:47
 ! Expires: 1 day
-! Entries: 382
+! Entries: 396
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -21,18 +21,22 @@
 ||aristos24.de^
 ||ascherslebener-holzhandel.de^
 ||atlascontainerlogistikgmbh.de^
+||auraverely.com^
 ||autohaus-temuer.de^
 ||autohistorik.de^
 ||autonivo.de^
+||b-chauffage.de^
 ||backenundsuben.com^
 ||bahntechnik-garten.de^
 ||bauer-brennstoffe.com^
 ||baustoffe-sales.com^
 ||beatrice-london.com^
 ||bellataylor-newyork.com^
+||berger-brennstoffe.com^
 ||bergmann-outdoor.com^
 ||berlin-brennstoffe.de^
 ||bewegwelt.myshopify.com^
+||bhsbrennholzservicegmbh.de^
 ||bike-striptechnology.de^
 ||bikecouture.de^
 ||biketools24.com^
@@ -41,6 +45,7 @@
 ||birnerforsttechnik.de^
 ||blasgarten.de^
 ||boismat.de^
+||bonprixmode.com^
 ||boomtownstreetwear.de^
 ||boostertresor.com^
 ||borde-brennholzpaulusgmbh.com^
@@ -53,12 +58,16 @@
 ||brennholzhochwald-de.com^
 ||brennholzkontorscharf.de^
 ||brennholzkraft.com^
+||brennholzmuscheid.com^
 ||brennholzprofipretzl.de^
 ||brennholzschneblegmbh.com^
+||brennholztuehandel.de^
 ||brennkiste.de^
+||brennstoffe-kappus.com^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
 ||brennstoffhandel-behnke.de^
+||btrgservices.com^
 ||buchlaterne.de^
 ||camerapicks.com^
 ||campusfahrradergmbh.de^
@@ -207,6 +216,7 @@
 ||kalkar-handel.com^
 ||kaltesholz.com^
 ||kanzlei-hexental.de^
+||kanzlei-owl.com^
 ||kaufello.shop^
 ||kcfvsjpr.shop^
 ||kfnkapital-gruppe.de^
@@ -231,6 +241,7 @@
 ||ludwigbergmanngmbh.de^
 ||luis-software.de^
 ||machinery-technologyeuropeltd.de^
+||madegsly.com^
 ||magiluxe-store.com^
 ||mahlwerk-meisterei.de^
 ||mammutjacke.com^
@@ -294,6 +305,7 @@
 ||praxisklinik-muelheim.de^
 ||primini.shop^
 ||prosolargen-strip.de^
+||purekaffee.com^
 ||qrlsvssy.shop^
 ||quarvesta.shop^
 ||ra-owl.de^
@@ -324,6 +336,7 @@
 ||sciponoe.com^
 ||scs-elektro.de^
 ||seatoria.com^
+||servicehanschen-kg.com^
 ||sigl-inso.de^
 ||sissoko-keita.com^
 ||sl-handel.com^
@@ -373,6 +386,7 @@
 ||weinlandhub.com^
 ||wensauer-holz.com^
 ||werkswagen-porsche.de^
+||weteextees.com^
 ||wetzlarindustrysolutions.com^
 ||wiga-pharma.de^
 ||willms-forsttechnik.de^
