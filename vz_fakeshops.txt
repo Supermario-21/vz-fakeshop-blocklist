@@ -2,7 +2,7 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-28 09:53
+! Last modified: 2026-10-29 10:15
 ! Expires: 1 day
 ! Entries: 399
 
@@ -102,7 +102,6 @@
 ||distri-globe.de^
 ||diyhandels-de.com^
 ||doormey.myshopify.com^
-||dunstabzugshaubenfilter24.com^
 ||e-bikesmkgmbh-de.com^
 ||e-bikesmkgmbh.com^
 ||e24-shopech.com^
@@ -156,7 +155,6 @@
 ||gerardusbraas.com^
 ||gfadenoaillac.com^
 ||gfhltechnik.de^
-||global-kaufhaus.com^
 ||goia-direkt.de^
 ||goillo.com^
 ||goldbesitz.com^
@@ -187,7 +185,6 @@
 ||hjz-handel.de^
 ||holz-market.com^
 ||holz-wagner.com^
-||holzbriketts-profi.de^
 ||holzfeuerlust.de^
 ||holzfurwinter.com^
 ||holzgluck.de^
@@ -229,7 +226,6 @@
 ||lesboisdubreuil.com^
 ||levinberlin.com^
 ||lichtwappen.de^
-||limon-shop.at^
 ||lina-athens.com^
 ||lkwpetru-shop.com^
 ||ludwigbergmanngmbh.de^
@@ -309,7 +305,6 @@
 ||purekaffee.com^
 ||qrlsvssy.shop^
 ||quarvesta.shop^
-||ra-owl.de^
 ||rachow-handel.com^
 ||racineelectromenager.com^
 ||radfit24.com^
@@ -335,6 +330,7 @@
 ||schmidtmaschine.de^
 ||schmitz-bio-ol.de^
 ||schnellenberger-haus.de^
+||schuhe.live^
 ||scierie-garmier.de^
 ||sciponoe.com^
 ||scs-elektro.de^
@@ -355,6 +351,7 @@
 ||stammholz-forest.com^
 ||steflio.com^
 ||steinhofen-partner.de^
+||stiefelwerkstatt.shop^
 ||store.elmleigha.com^
 ||store.elvaritaro.com^
 ||store.kingslora.com^
@@ -365,6 +362,7 @@
 ||talidix.com^
 ||taotdzhi.shop^
 ||tc-germany.com^
+||teichpoint.live^
 ||tektronix-gmbh.com^
 ||thevintagefactory.de^
 ||tischlereijache-shop.de^
@@ -373,6 +371,7 @@
 ||uaxmncug.shop^
 ||ufheimwerker-de.com^
 ||universalsack.com^
+||vanessamaishop.de^
 ||vape-de.de^
 ||varzunel.com^
 ||verlinggroup.com^
@@ -388,6 +387,7 @@
 ||weinlandhub.com^
 ||weldora.de^
 ||wensauer-holz.com^
+||werksraeder-24.de^
 ||werkswagen-porsche.de^
 ||weteextees.com^
 ||wetzlarindustrysolutions.com^
