@@ -2,7 +2,7 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-29 10:15
+! Last modified: 2026-10-30 10:16
 ! Expires: 1 day
 ! Entries: 399
 
@@ -35,11 +35,12 @@
 ||berkklan.myshopify.com^
 ||berlin-brennstoffe.de^
 ||bewegwelt.myshopify.com^
+||bgmbgroupe.com^
 ||bhsbrennholzservicegmbh.de^
 ||bike-striptechnology.de^
 ||bikecouture.de^
 ||biketools24.com^
-||bioholzpellets.de^
+||biokontor.shop^
 ||birnerforsttechnik.de^
 ||boismat.de^
 ||bonprixmode.com^
@@ -129,7 +130,6 @@
 ||fahrklarheit.de^
 ||fahrradu.de^
 ||fahrzeugspur.de^
-||falthammer-markt.com^
 ||fest-holz.com^
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
@@ -341,7 +341,6 @@
 ||sl-handel.com^
 ||sofia-barcelona.com^
 ||solarosales-green.com^
-||solidewaren.com^
 ||sophie-melbourne.com^
 ||sophie-rotterdam.com^
 ||sophieberlin.com^
@@ -368,6 +367,7 @@
 ||tischlereijache-shop.de^
 ||tokietmo.shop^
 ||tom-trailer.com^
+||treuhand-fides.com^
 ||uaxmncug.shop^
 ||ufheimwerker-de.com^
 ||universalsack.com^
