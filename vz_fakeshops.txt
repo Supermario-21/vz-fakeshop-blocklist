@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-10-31 09:50
+! Last modified: 2026-11-01 10:40
 ! Expires: 1 day
-! Entries: 377
+! Entries: 383
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -64,6 +64,7 @@
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
 ||brennstoffhandel-behnke.de^
+||brettspielmeister.shop^
 ||btrgservices.com^
 ||buchlaterne.de^
 ||camerapicks.com^
@@ -194,11 +195,11 @@
 ||hysellia.com^
 ||ihk-eforen.de^
 ||isabella-buenosaires.com^
+||jads-silencer.com^
 ||johdorbrennholz.com^
 ||julia-madrid.com^
 ||kahla-official.com^
 ||kaiserstadtcontainergmbh.de^
-||kaltesholz.com^
 ||kanzlei-hexental.de^
 ||kanzlei-owl.com^
 ||kaufello.shop^
@@ -206,6 +207,7 @@
 ||kfnkapital-gruppe.de^
 ||kfzdaten24.de^
 ||klimaanlageportal.de^
+||klimatmas.com^
 ||kronsummitgmbh.de^
 ||krovian.shop^
 ||kuchtafe.myshopify.com^
@@ -215,6 +217,7 @@
 ||larshamburg.com^
 ||leagpellts.de^
 ||legnaepellet24.it^
+||leisewind.com^
 ||lesboisdubreuil.com^
 ||levinberlin.com^
 ||lichtwappen.de^
@@ -264,6 +267,7 @@
 ||ndb-shop.com^
 ||neology-stripe.de^
 ||netzpro.shop^
+||newblue-tradingshop.com^
 ||nexuswebshop.com^
 ||nicoudo.com^
 ||nordza.de^
@@ -299,6 +303,7 @@
 ||riedelweinglaser.de^
 ||riley-vancouver.com^
 ||rmwpharw.shop^
+||rollopark.com^
 ||rostock-scooter.de^
 ||rudolphmaschine.de^
 ||rundholzdirekt.de^
@@ -327,6 +332,7 @@
 ||sophievienna.com^
 ||spedition-tml.de^
 ||stammholz-forest.com^
+||starkg.de^
 ||steflio.com^
 ||steinhofen-partner.de^
 ||stiefelwerkstatt.shop^
