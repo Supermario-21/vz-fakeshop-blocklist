@@ -2,7 +2,7 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-01 10:40
+! Last modified: 2026-11-02 11:29
 ! Expires: 1 day
 ! Entries: 383
 
