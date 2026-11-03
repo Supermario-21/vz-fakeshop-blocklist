@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-02 11:29
+! Last modified: 2026-11-03 11:08
 ! Expires: 1 day
-! Entries: 383
+! Entries: 387
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -15,6 +15,7 @@
 ||albuni-24.de^
 ||allergocover.care^
 ||alpha3-gmbh.de^
+||ancientcoinjournal.com^
 ||anhaenger-brennholz.de^
 ||anhaengerliebe.de^
 ||apionier.com^
@@ -125,6 +126,7 @@
 ||eventsamrhein.de^
 ||fahrradu.de^
 ||fahrzeugspur.de^
+||ferreira-container.com^
 ||fest-holz.com^
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
@@ -177,6 +179,7 @@
 ||heizoel-online.com^
 ||hellhausgarten.com^
 ||helvaron.shop^
+||heudorfer-fahrradladen.de^
 ||holz-market.com^
 ||holz-wagner.com^
 ||holzfeuerlust.de^
@@ -284,6 +287,7 @@
 ||peptide-shop.org^
 ||philoro-de.to^
 ||philoro.online^
+||portanol.shop^
 ||primini.shop^
 ||print-1.com^
 ||prosolargen-strip.de^
