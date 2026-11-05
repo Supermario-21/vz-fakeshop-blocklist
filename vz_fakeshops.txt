@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-03 11:08
+! Last modified: 2026-11-05 11:16
 ! Expires: 1 day
-! Entries: 387
+! Entries: 399
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -29,6 +29,7 @@
 ||b-chauffage.de^
 ||backenundsuben.com^
 ||bauer-brennstoffe.com^
+||bauhauuss.de^
 ||beatrice-london.com^
 ||bellataylor-newyork.com^
 ||berger-brennstoffe.com^
@@ -60,6 +61,7 @@
 ||brennholzprofipretzl.de^
 ||brennholzschneblegmbh.com^
 ||brennholztuehandel.de^
+||brennholzullrich.com^
 ||brennkiste.de^
 ||brennstoffe-kappus.com^
 ||brennstoffe-weddeling.com^
@@ -85,7 +87,6 @@
 ||containerschiffsreedereigmbh.de^
 ||cosmic-tower.ch^
 ||cosmictower.ch^
-||cyclemastersstore.com^
 ||daily-outfit.de^
 ||dalacker-energie.com^
 ||dankers-containers.de^
@@ -119,6 +120,7 @@
 ||elektriker-buchwald.de^
 ||emma-amsterdam.com^
 ||emma-wellington.com^
+||engelhardt-holzhandlung.de^
 ||equaloxchange.shop^
 ||escobike.shop^
 ||eshop.stonebournea.com^
@@ -136,14 +138,16 @@
 ||finbefund.de^
 ||finsiegel.de^
 ||fixardo.de^
-||flyerfahrrad.com^
 ||forsage-gartenkauf.com^
 ||forstbedarf-blessing.de^
 ||frankefahrrad.de^
+||frischedec.com^
+||frischedecke.com^
 ||fumotde.de^
 ||furnilivora.com^
 ||fwnkeoyt.shop^
 ||fxtpi.shop^
+||gaborschuhe.com^
 ||garage-autosteve.com^
 ||garmica.shop^
 ||gartenexperte24.com^
@@ -162,6 +166,7 @@
 ||golfnavi.shop^
 ||grand-bazar.de^
 ||grillhausug.com^
+||grocery-awholesale.shop^
 ||grondberg.de^
 ||gruenliva.de^
 ||halseband-technik.de^
@@ -173,6 +178,7 @@
 ||hauslich.com^
 ||hausora.shop^
 ||hauspellets.de^
+||heizelektromark.de^
 ||heizholz-express.com^
 ||heizoel-bio.com^
 ||heizoel-genial.com^
@@ -224,6 +230,7 @@
 ||lesboisdubreuil.com^
 ||levinberlin.com^
 ||lichtwappen.de^
+||lidlrabatt.com^
 ||lina-athens.com^
 ||lkwpetru-shop.com^
 ||ludwigbergmanngmbh.de^
@@ -260,6 +267,7 @@
 ||mnpozxtv.shop^
 ||mobel-wahls.shop^
 ||mobeloutletneheim.shop^
+||moelders24.de^
 ||mollerbrennholzhandelgmbh.de^
 ||msihandelgmbh.de^
 ||mtiialolo.com^
@@ -277,9 +285,11 @@
 ||nowfahrrad.de^
 ||oko-heizung.de^
 ||oko-spechtbrennholzgmbh.de^
+||okobrennstoffeforstergmbh.com^
 ||olivia-leeds.com^
 ||ostermaierbrennholz.de^
 ||pawmony.shop^
+||pellet-werk.com^
 ||pelletkontor.de^
 ||pelletpoint77gmbh.de^
 ||pellets-anhanger-premium.de^
@@ -302,7 +312,6 @@
 ||radmarkt-schaeler.de^
 ||raumnote.de^
 ||reptailshop.de^
-||respira.berlin^
 ||reynamobel.shop^
 ||riedelweinglaser.de^
 ||riley-vancouver.com^
@@ -327,6 +336,7 @@
 ||servicehanschen-kg.com^
 ||sigl-inso.de^
 ||sissoko-keita.com^
+||skiwaxcare.com^
 ||sl-handel.com^
 ||slktggph.shop^
 ||sofia-barcelona.com^
@@ -348,14 +358,12 @@
 ||swabytec24.com^
 ||swabytec24.de^
 ||talidix.com^
-||taotdzhi.shop^
 ||tc-germany.com^
 ||teichpoint.live^
 ||tektronix-gmbh.com^
 ||thevintagefactory.de^
 ||tischlereijache-shop.de^
 ||tokietmo.shop^
-||tom-trailer.com^
 ||treuhand-fides.com^
 ||uaxmncug.shop^
 ||ufheimwerker-de.com^
@@ -363,6 +371,7 @@
 ||uqsjmnnr.shop^
 ||vanessamaishop.de^
 ||vape-de.de^
+||varileoutdoors.shop^
 ||varzunel.com^
 ||verlinggroup.com^
 ||viewhaushaltswaren.shop^
@@ -370,6 +379,7 @@
 ||vnpsfyme.shop^
 ||vogeler-technik.de^
 ||volturexa.de^
+||vornelaki.com^
 ||vorwerk-tm.de^
 ||vuubdofp.shop^
 ||weinlandhub.com^
@@ -379,14 +389,16 @@
 ||werkswagen-porsche.de^
 ||weteextees.com^
 ||wetzlarindustrysolutions.com^
+||whndiisb.shop^
 ||wiga-pharma.de^
 ||willms-forsttechnik.de^
+||winzerglueck.com^
 ||wloka-brennholz.de^
 ||wmuwoebj.shop^
 ||wohnelva.de^
 ||wohnenideenalltag.com^
 ||work-co.de^
-||wrexio.com^
+||workco.de^
 ||ysa-handels.com^
 ||yzorigwl.shop^
 ||zenpa.shop^
