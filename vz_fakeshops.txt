@@ -2,7 +2,7 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-05 11:16
+! Last modified: 2026-11-06 11:14
 ! Expires: 1 day
 ! Entries: 399
 
@@ -40,6 +40,7 @@
 ||bhsbrennholzservicegmbh.de^
 ||bike-striptechnology.de^
 ||bikecouture.de^
+||bikeservice-store.com^
 ||biketools24.com^
 ||biokontor.shop^
 ||birnerforsttechnik.de^
@@ -131,6 +132,7 @@
 ||ferreira-container.com^
 ||fest-holz.com^
 ||festgeldtracker.us.com^
+||feuer-und-holz.store^
 ||feuerholzexpress.de^
 ||feuerholzkiste.de^
 ||feuerholzliebe.de^
@@ -178,6 +180,7 @@
 ||hauslich.com^
 ||hausora.shop^
 ||hauspellets.de^
+||havlo.de^
 ||heizelektromark.de^
 ||heizholz-express.com^
 ||heizoel-bio.com^
@@ -186,6 +189,7 @@
 ||hellhausgarten.com^
 ||helvaron.shop^
 ||heudorfer-fahrradladen.de^
+||holz-josh.de^
 ||holz-market.com^
 ||holz-wagner.com^
 ||holzfeuerlust.de^
@@ -197,6 +201,7 @@
 ||holzliefernexpress.de^
 ||holzregional.de^
 ||holzscheitenatur.com^
+||holzverkauf-lfl.shop^
 ||holzwaermedirekt.de^
 ||homeneext.shop^
 ||hselbe-fahrrad.de^
@@ -262,15 +267,14 @@
 ||mimosashop.de^
 ||minibagger360.de^
 ||mirrorlabel.de^
-||misterwinkler.de^
 ||mkkrcwss.shop^
 ||mnpozxtv.shop^
 ||mobel-wahls.shop^
 ||mobeloutletneheim.shop^
 ||moelders24.de^
+||moellerbrennholz.de^
 ||mollerbrennholzhandelgmbh.de^
 ||msihandelgmbh.de^
-||mtiialolo.com^
 ||muenzencorner.com^
 ||musicianshop.de^
 ||mytelhandys.de^
@@ -300,19 +304,16 @@
 ||portanol.shop^
 ||primini.shop^
 ||print-1.com^
-||prosolargen-strip.de^
 ||pucaage.com^
 ||puppeace.de^
 ||purekaffee.com^
 ||qrlsvssy.shop^
 ||quarvesta.shop^
-||rachow-handel.com^
 ||racineelectromenager.com^
 ||radfit24.com^
 ||radmarkt-schaeler.de^
 ||raumnote.de^
 ||reptailshop.de^
-||reynamobel.shop^
 ||riedelweinglaser.de^
 ||riley-vancouver.com^
 ||rmwpharw.shop^
@@ -337,7 +338,6 @@
 ||sigl-inso.de^
 ||sissoko-keita.com^
 ||skiwaxcare.com^
-||sl-handel.com^
 ||slktggph.shop^
 ||sofia-barcelona.com^
 ||sophie-melbourne.com^
@@ -353,7 +353,6 @@
 ||store.elvaritaro.com^
 ||store.kingslora.com^
 ||store.ternwick.com^
-||store.woodgroven.com^
 ||sunpowerprofi.de^
 ||swabytec24.com^
 ||swabytec24.de^
@@ -404,4 +403,5 @@
 ||zenpa.shop^
 ||zeols.com^
 ||znvzhsbw.shop^
+||zovrilo.com^
 ||zvelonium.de^
