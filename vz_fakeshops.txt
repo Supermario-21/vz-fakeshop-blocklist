@@ -2,7 +2,7 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-11 11:16
+! Last modified: 2026-11-12 11:33
 ! Expires: 1 day
 ! Entries: 399
 
@@ -44,6 +44,7 @@
 ||biketools24.com^
 ||biokontor.shop^
 ||birnerforsttechnik.de^
+||boatpumpzone.com^
 ||boismat.de^
 ||bonprixmode.com^
 ||boostertresor.com^
@@ -166,7 +167,6 @@
 ||goldbesitz.com^
 ||goldstern-elektro.com^
 ||golfnavi.shop^
-||grand-bazar.de^
 ||grillhausug.com^
 ||grinmeup.shop^
 ||grocery-awholesale.shop^
@@ -198,6 +198,7 @@
 ||holzgluck.de^
 ||holzgutexpress.de^
 ||holzhandelholzhauer.com^
+||holzhofgmbh.de^
 ||holzkamin.com^
 ||holzliefernexpress.de^
 ||holzregional.de^
@@ -210,7 +211,6 @@
 ||hysellia.com^
 ||ihk-eforen.de^
 ||isabella-buenosaires.com^
-||jads-silencer.com^
 ||jcs-technologies.de^
 ||johdorbrennholz.com^
 ||julia-madrid.com^
@@ -228,7 +228,6 @@
 ||krovian.shop^
 ||kuchtafe.myshopify.com^
 ||kuk-kaffee.de^
-||kuriovault.com^
 ||lanyera.com^
 ||larshamburg.com^
 ||leagpellts.de^
@@ -334,6 +333,7 @@
 ||sciponoe.com^
 ||scs-elektro.de^
 ||servicehanschen-kg.com^
+||sicama.eu^
 ||sigl-inso.de^
 ||sissoko-keita.com^
 ||skiwaxcare.com^
