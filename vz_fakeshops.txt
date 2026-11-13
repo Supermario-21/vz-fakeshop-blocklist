@@ -2,7 +2,7 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-12 11:33
+! Last modified: 2026-11-13 11:18
 ! Expires: 1 day
 ! Entries: 399
 
@@ -11,7 +11,6 @@
 ||agritechcenter.de^
 ||aio-vita.com^
 ||aknowi.de^
-||aktioncode.com^
 ||albuni-24.de^
 ||allergocover.care^
 ||alpha3-gmbh.de^
@@ -25,12 +24,12 @@
 ||auraverely.com^
 ||autohaus-temuer.de^
 ||autohistorik.de^
-||autonivo.de^
 ||b-chauffage.de^
 ||backenundsuben.com^
 ||bauer-brennstoffe.com^
 ||bauhauuss.de^
 ||beatrice-london.com^
+||bellaro-store.de^
 ||bellataylor-newyork.com^
 ||berger-brennstoffe.com^
 ||bergmann-outdoor.com^
@@ -41,11 +40,11 @@
 ||bike-striptechnology.de^
 ||bikecouture.de^
 ||bikeservice-store.com^
+||bikestock-shop.de^
 ||biketools24.com^
 ||biokontor.shop^
 ||birnerforsttechnik.de^
 ||boatpumpzone.com^
-||boismat.de^
 ||bonprixmode.com^
 ||boostertresor.com^
 ||borde-brennholzpaulusgmbh.com^
@@ -72,9 +71,7 @@
 ||brettspielmeister.shop^
 ||btrgservices.com^
 ||buchlaterne.de^
-||camerapicks.com^
 ||campusfahrradergmbh.de^
-||canyonoutlet.de^
 ||carpruf.de^
 ||casualtry.de^
 ||celeste-milano.com^
@@ -89,6 +86,7 @@
 ||containerschiffsreedereigmbh.de^
 ||cosmic-tower.ch^
 ||cosmictower.ch^
+||cowboy-brothers.de^
 ||daily-outfit.de^
 ||dalacker-energie.com^
 ||dankers-containers.de^
@@ -100,7 +98,6 @@
 ||debot-maschinen.de^
 ||delphios.shop^
 ||delvaxor.shop^
-||derbyfahrrader.de^
 ||dieameisenmaler.com^
 ||dieameisenmaler.myshopify.com^
 ||diermann-marketing.de^
@@ -148,7 +145,6 @@
 ||frischedecke.com^
 ||fumotde.de^
 ||furnilivora.com^
-||fwnkeoyt.shop^
 ||fxtpi.shop^
 ||gaborschuhe.com^
 ||garage-autosteve.com^
@@ -166,6 +162,7 @@
 ||goillo.com^
 ||goldbesitz.com^
 ||goldstern-elektro.com^
+||goldtanne.de^
 ||golfnavi.shop^
 ||grillhausug.com^
 ||grinmeup.shop^
@@ -193,6 +190,7 @@
 ||holz-josh.de^
 ||holz-market.com^
 ||holz-wagner.com^
+||holzcoins.com^
 ||holzfeuerlust.de^
 ||holzfurwinter.com^
 ||holzgluck.de^
@@ -210,6 +208,7 @@
 ||hubwerkshop24.com^
 ||hysellia.com^
 ||ihk-eforen.de^
+||instore-fashion.de^
 ||isabella-buenosaires.com^
 ||jcs-technologies.de^
 ||johdorbrennholz.com^
@@ -222,6 +221,7 @@
 ||kcfvsjpr.shop^
 ||kfnkapital-gruppe.de^
 ||kfzdaten24.de^
+||kickhoodies.de^
 ||klimaanlageportal.de^
 ||klimatmas.com^
 ||kronsummitgmbh.de^
@@ -272,6 +272,7 @@
 ||moelders24.de^
 ||moellerbrennholz.de^
 ||mollerbrennholzhandelgmbh.de^
+||morgenwarme.de^
 ||msihandelgmbh.de^
 ||muenzencorner.com^
 ||musicianshop.de^
@@ -338,11 +339,10 @@
 ||sissoko-keita.com^
 ||skiwaxcare.com^
 ||slktggph.shop^
+||smarthos.de^
 ||sofia-barcelona.com^
+||soniferaheim.de^
 ||sophie-melbourne.com^
-||sophie-rotterdam.com^
-||sophieberlin.com^
-||sophievienna.com^
 ||spedition-tml.de^
 ||stammholz-forest.com^
 ||starkg.de^
