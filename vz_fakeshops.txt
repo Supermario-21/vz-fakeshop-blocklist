@@ -2,9 +2,9 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-17 12:10
+! Last modified: 2026-11-18 11:59
 ! Expires: 1 day
-! Entries: 343
+! Entries: 342
 
 ||aeribold.com^
 ||aerzteregistrat.de^
@@ -92,9 +92,11 @@
 ||ebike-outlestore.de^
 ||ebikezeit-fahrrad.de^
 ||ecoworkss.store^
+||edelmetalle-web.de^
 ||edelmetallshop24.com^
 ||eg-tradeshop.com^
 ||einstefeg.shop^
+||elektrocenters.de^
 ||engelhardt-holzhandlung.de^
 ||escobike.shop^
 ||eshop.stonebournea.com^
@@ -153,22 +155,24 @@
 ||heizelektromark.de^
 ||heizholz-express.com^
 ||heizoel-bio.com^
+||heizoel-classic.com^
 ||heizoel-genial.com^
 ||heizoel-online.com^
 ||hellhausgarten.com^
 ||helvaron.shop^
 ||heudorfer-fahrradladen.de^
+||hewil-heizung.de^
 ||holz-josh.de^
 ||holz-market.com^
 ||holzcoins.com^
 ||holzfeuerlust.de^
 ||holzfurwinter.com^
 ||holzgluck.de^
-||holzgutexpress.de^
 ||holzhandelholzhauer.com^
 ||holzhofgmbh.de^
 ||holzkamin.com^
 ||holzliefernexpress.de^
+||holzpro24.com^
 ||holzregional.de^
 ||holzverkauf-lfl.shop^
 ||holzwaermedirekt.de^
@@ -180,6 +184,7 @@
 ||johdorbrennholz.com^
 ||kahla-official.com^
 ||kaiserstadtcontainergmbh.de^
+||kaminholzhalstenbekgmbh.com^
 ||kanzlei-hexental.de^
 ||kanzlei-owl.com^
 ||kaufello.shop^
@@ -202,9 +207,9 @@
 ||machinery-technologyeuropeltd.de^
 ||madegsly.com^
 ||magiluxe-store.com^
-||mahlwerk-meisterei.de^
 ||makerklang.shop^
 ||market.ashfielden.com^
+||market.fieldcrofton.com^
 ||market.galeririva.com^
 ||market.glenleigha.com^
 ||market.stonebournea.com^
@@ -239,11 +244,11 @@
 ||newblue-tradingshop.com^
 ||nicoudo.com^
 ||nordza.de^
-||nowfahrrad.de^
+||oel-check.com^
 ||oko-heizung.de^
 ||oko-spechtbrennholzgmbh.de^
 ||okobrennstoffeforstergmbh.com^
-||ostermaierbrennholz.de^
+||pagatxa.com^
 ||pawmony.shop^
 ||pellet-werk.com^
 ||pelletkontor.de^
@@ -262,6 +267,7 @@
 ||qrlsvssy.shop^
 ||quarvesta.shop^
 ||racineelectromenager.com^
+||rad-held.com^
 ||radfit24.com^
 ||radmarkt-schaeler.de^
 ||raumnote.de^
@@ -281,7 +287,6 @@
 ||scandiwarm.com^
 ||schmitz-bio-ol.de^
 ||schuhe.live^
-||scierie-garmier.de^
 ||sciponoe.com^
 ||scs-elektro.de^
 ||servicehanschen-kg.com^
@@ -296,12 +301,10 @@
 ||stiefelwerkstatt.shop^
 ||store.elvaritaro.com^
 ||store.kingslora.com^
-||store.ternwick.com^
 ||store.woodgroven.com^
 ||sunpowerprofi.de^
 ||swabytec24.com^
 ||swabytec24.de^
-||talidix.com^
 ||taotdzhi.shop^
 ||tc-germany.com^
 ||teichpoint.live^
@@ -321,7 +324,6 @@
 ||varzunel.com^
 ||verlinggroup.com^
 ||viewhaushaltswaren.shop^
-||vision-velo.com^
 ||vnpsfyme.shop^
 ||vogeler-technik.de^
 ||volturexa.de^
@@ -332,7 +334,6 @@
 ||weldora.de^
 ||wensauer-holz.com^
 ||werksraeder-24.de^
-||werkswagen-porsche.de^
 ||weteextees.com^
 ||whndiisb.shop^
 ||wiga-pharma.de^
@@ -343,9 +344,7 @@
 ||wohnenideenalltag.com^
 ||workco.de^
 ||ysa-handels.com^
-||yzorigwl.shop^
 ||zenpa.shop^
-||zeols.com^
 ||znvzhsbw.shop^
 ||zovrilo.com^
 ||zvelonium.de^
