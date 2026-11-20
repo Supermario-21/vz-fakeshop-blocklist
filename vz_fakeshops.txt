@@ -2,7 +2,7 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-19 11:56
+! Last modified: 2026-11-20 11:57
 ! Expires: 1 day
 ! Entries: 342
 
@@ -29,14 +29,11 @@
 ||berlin-brennstoffe.de^
 ||bgmbgroupe.com^
 ||bhsbrennholzservicegmbh.de^
-||bike-striptechnology.de^
-||bikecouture.de^
 ||bikeservice-store.com^
 ||bikestock-shop.de^
 ||biokontor.shop^
 ||boatpumpzone.com^
 ||bonprixmode.com^
-||boostertresor.com^
 ||borde-brennholzpaulusgmbh.com^
 ||boxtrail.de^
 ||brennholz-deckarm.shop^
@@ -64,10 +61,10 @@
 ||casualtry.de^
 ||centraltradingshop.com^
 ||cf-handelsshop.com^
+||cgholzhandel.de^
 ||charentesalliance.com^
 ||cjtzat.shop^
 ||cjuuri.shop^
-||containercst-gmbh.de^
 ||cosmic-tower.ch^
 ||cosmictower.ch^
 ||cowboy-brothers.de^
@@ -97,6 +94,7 @@
 ||elektrocenters.de^
 ||engelhardt-holzhandlung.de^
 ||escobike.shop^
+||escooterweltt.de^
 ||eshop.stonebournea.com^
 ||fahrradu.de^
 ||fahrzeugspur.de^
@@ -191,6 +189,7 @@
 ||krovian.shop^
 ||kuchtafe.myshopify.com^
 ||kuk-kaffee.de^
+||lanigo.de^
 ||lanyera.com^
 ||leagpellts.de^
 ||legnaepellet24.it^
@@ -344,6 +343,7 @@
 ||wolle-weinreich-muehlhausen.de^
 ||workco.de^
 ||ysa-handels.com^
+||zauberbeam.de^
 ||zenpa.shop^
 ||znvzhsbw.shop^
 ||zovrilo.com^
