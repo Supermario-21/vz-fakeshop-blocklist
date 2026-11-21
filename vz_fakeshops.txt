@@ -2,11 +2,10 @@
 ! Title: VZ Fakeshop-Finder Blocklist
 ! Description: Fakeshop-Warnungen der Verbraucherzentrale
 ! Homepage: https://warnung.fakeshop-finder.de/
-! Last modified: 2026-11-20 11:57
+! Last modified: 2026-11-21 11:29
 ! Expires: 1 day
-! Entries: 342
+! Entries: 344
 
-||aeribold.com^
 ||aerzteregistrat.de^
 ||aio-vita.com^
 ||aknowi.de^
@@ -18,6 +17,7 @@
 ||ascherslebener-holzhandel.de^
 ||auraverely.com^
 ||autohaus-temuer.de^
+||aznshdxc.shop^
 ||b-chauffage.de^
 ||backenundsuben.com^
 ||bauer-brennstoffe.com^
@@ -41,7 +41,6 @@
 ||brennholz-kammer.de^
 ||brennholzangebot.com^
 ||brennholzbredemeier.com^
-||brennholzhochwald-de.com^
 ||brennholzkontorscharf.de^
 ||brennholzkraft.com^
 ||brennholzmuscheid.com^
@@ -59,12 +58,15 @@
 ||campusfahrradergmbh.de^
 ||carpruf.de^
 ||casualtry.de^
+||cemira.shop^
 ||centraltradingshop.com^
 ||cf-handelsshop.com^
 ||cgholzhandel.de^
 ||charentesalliance.com^
 ||cjtzat.shop^
 ||cjuuri.shop^
+||cmnixogb.shop^
+||comfyclogs.store^
 ||cosmic-tower.ch^
 ||cosmictower.ch^
 ||cowboy-brothers.de^
@@ -72,23 +74,19 @@
 ||dankers-containers.de^
 ||datenfin.de^
 ||de-leipzig.de^
-||de.bio-brennholz.de^
 ||de.novintra.shop^
 ||de.plantiter.shop^
 ||delphios.shop^
 ||delvaxor.shop^
 ||dieameisenmaler.com^
 ||dieameisenmaler.myshopify.com^
-||distri-globe.de^
 ||diyhandels-de.com^
 ||doormey.myshopify.com^
 ||e-bikesmkgmbh-de.com^
 ||e-bikesmkgmbh.com^
 ||e24-shopech.com^
 ||ebikezeit-fahrrad.de^
-||ecoworkss.store^
 ||edelmetalle-web.de^
-||edelmetallshop24.com^
 ||eg-tradeshop.com^
 ||einstefeg.shop^
 ||elektrocenters.de^
@@ -97,7 +95,6 @@
 ||escooterweltt.de^
 ||eshop.stonebournea.com^
 ||fahrradu.de^
-||fahrzeugspur.de^
 ||ferreira-container.com^
 ||fest-holz.com^
 ||feuer-und-holz.store^
@@ -111,7 +108,6 @@
 ||frischedec.com^
 ||frischedecke.com^
 ||fumotde.de^
-||furnilivora.com^
 ||fwnkeoyt.shop^
 ||fxtpi.shop^
 ||gaborschuhe.com^
@@ -139,18 +135,20 @@
 ||hanse-treuhand.com^
 ||hanseatischercontainerservicegmbh.de^
 ||hauke-verteilung.com^
+||hausandwerk.com^
 ||haushaltswarendiscount.shop^
 ||hauslich.com^
 ||hausora.shop^
 ||hauspellets.de^
+||hauusmarkt.myshopify.com^
 ||havlo.de^
+||heckmeist.shop^
 ||heizelektromark.de^
 ||heizholz-express.com^
 ||heizoel-bio.com^
 ||heizoel-classic.com^
 ||heizoel-genial.com^
 ||heizoel-online.com^
-||hellhausgarten.com^
 ||helvaron.shop^
 ||heudorfer-fahrradladen.de^
 ||hewil-heizung.de^
@@ -174,11 +172,11 @@
 ||instore-fashion.de^
 ||jcs-technologies.de^
 ||johdorbrennholz.com^
+||kaffemaschinen.shop^
 ||kahla-official.com^
 ||kaiserstadtcontainergmbh.de^
 ||kaminexpertstore.com^
 ||kaminholzhalstenbekgmbh.com^
-||kanzlei-hexental.de^
 ||kanzlei-owl.com^
 ||kaufello.shop^
 ||kcfvsjpr.shop^
@@ -228,20 +226,23 @@
 ||mollerbrennholzhandelgmbh.de^
 ||morgenwarme.de^
 ||msihandelgmbh.de^
-||muenzencorner.com^
 ||musicianshop.de^
+||mynhusnc.shop^
 ||mytelhandys.de^
 ||nagelein-handel.com^
 ||ndb-shop.com^
 ||neology-stripe.de^
 ||netzpro.shop^
+||netzpunkt.myshopify.com^
 ||newblue-tradingshop.com^
 ||nicoudo.com^
 ||nordza.de^
+||nyftiwnh.shop^
 ||oel-check.com^
 ||oko-heizung.de^
 ||oko-spechtbrennholzgmbh.de^
 ||okobrennstoffeforstergmbh.com^
+||onxouiwn.shop^
 ||pagatxa.com^
 ||pawmony.shop^
 ||pbici.com^
@@ -259,7 +260,7 @@
 ||pucaage.com^
 ||puppeace.de^
 ||purekaffee.com^
-||qrlsvssy.shop^
+||qpgkzptk.shop^
 ||quarvesta.shop^
 ||racineelectromenager.com^
 ||rad-held.com^
@@ -271,12 +272,11 @@
 ||reynamobel.shop^
 ||riedelweinglaser.de^
 ||rmwpharw.shop^
+||rogntwxw.shop^
 ||rollopark.com^
 ||rostock-scooter.de^
 ||rudolphmaschine.de^
 ||rundholzdirekt.de^
-||sabineheidelberg.de^
-||sabrobrand.shop^
 ||saia-maschinen.com^
 ||saspromordi.com^
 ||sasstone.com^
@@ -297,20 +297,25 @@
 ||stiefelwerkstatt.shop^
 ||store.elvaritaro.com^
 ||store.kingslora.com^
+||store.newset.org^
+||store.ppdut.net^
 ||store.woodgroven.com^
 ||strollerstepbase.com^
 ||sunpowerprofi.de^
 ||swabytec24.com^
 ||swabytec24.de^
 ||taotdzhi.shop^
+||tawagold.store^
 ||tc-germany.com^
 ||teichpoint.live^
 ||tektronix-gmbh.com^
+||telesgo.shop^
 ||thevintagefactory.de^
 ||tischlereijache-shop.de^
-||tokietmo.shop^
 ||tom-trailer.com^
-||treuhand-fides.com^
+||touchedhome.shop^
+||tryhgi.shop^
+||twinlaze.store^
 ||uaxmncug.shop^
 ||ufheimwerker-de.com^
 ||universalsack.com^
@@ -321,7 +326,6 @@
 ||varileoutdoors.shop^
 ||varzunel.com^
 ||verlinggroup.com^
-||viewhaushaltswaren.shop^
 ||vnpsfyme.shop^
 ||vogeler-technik.de^
 ||volturexa.de^
@@ -330,7 +334,6 @@
 ||waschmaschinenanschluss.hamburg^
 ||weinlandhub.com^
 ||weldora.de^
-||wensauer-holz.com^
 ||werksraeder-24.de^
 ||weteextees.com^
 ||whndiisb.shop^
@@ -342,7 +345,6 @@
 ||wohnenideenalltag.com^
 ||wolle-weinreich-muehlhausen.de^
 ||workco.de^
-||ysa-handels.com^
 ||zauberbeam.de^
 ||zenpa.shop^
 ||znvzhsbw.shop^
